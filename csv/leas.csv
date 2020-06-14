@@ -1,0 +1,1054 @@
+Ccode,Dcode,Dname,Dtype,K12ADA
+"01","10017","Alameda County Office of Education                                         ","CO OFFICE      ",0.0000000000000000e+00
+"01","40402","Mission Valley ROC/P                                                       ","JPA            ",0.0000000000000000e+00
+"01","40410","Tri-Valley ROP JPA                                                         ","JPA            ",0.0000000000000000e+00
+"01","40428","Eden Area ROP JPA                                                          ","JPA            ",0.0000000000000000e+00
+"01","61119","Alameda Unified                                                            ","UNIFIED        ",8.9688500000000004e+03
+"01","61127","Albany City Unified                                                        ","UNIFIED        ",3.5445200000000000e+03
+"01","61143","Berkeley Unified                                                           ","UNIFIED        ",9.3564400000000005e+03
+"01","61150","Castro Valley Unified                                                      ","UNIFIED        ",8.9402000000000007e+03
+"01","61168","Emery Unified                                                              ","UNIFIED        ",6.8182000000000005e+02
+"01","61176","Fremont Unified                                                            ","UNIFIED        ",3.3966730000000003e+04
+"01","61192","Hayward Unified                                                            ","UNIFIED        ",1.8755200000000001e+04
+"01","61200","Livermore Valley Joint Unified                                             ","UNIFIED        ",1.3142040000000001e+04
+"01","61218","Mountain House Elementary                                                  ","ELEMENTARY     ",1.4930000000000000e+01
+"01","61234","Newark Unified                                                             ","UNIFIED        ",5.5528599999999997e+03
+"01","61242","New Haven Unified                                                          ","UNIFIED        ",1.0017510000000000e+04
+"01","61259","Oakland Unified                                                            ","UNIFIED        ",3.2801870000000003e+04
+"01","61275","Piedmont City Unified                                                      ","UNIFIED        ",2.5219400000000001e+03
+"01","61291","San Leandro Unified                                                        ","UNIFIED        ",8.4725200000000004e+03
+"01","61309","San Lorenzo Unified                                                        ","UNIFIED        ",9.6438199999999997e+03
+"01","75093","Dublin Unified                                                             ","UNIFIED        ",1.1769850000000000e+04
+"01","75101","Pleasanton Unified                                                         ","UNIFIED        ",1.4502940000000001e+04
+"01","75119","Sunol Glen Unified                                                         ","UNIFIED        ",2.8716000000000003e+02
+"02","10025","Alpine County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"02","61333","Alpine County Unified                                                      ","UNIFIED        ",7.4469999999999999e+01
+"03","10033","Amador County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"03","73981","Amador County Unified                                                      ","UNIFIED        ",3.7753099999999999e+03
+"04","10041","Butte County Office of Education                                           ","CO OFFICE      ",0.0000000000000000e+00
+"04","61382","Bangor Union Elementary                                                    ","ELEMENTARY     ",1.0054000000000001e+02
+"04","61408","Biggs Unified                                                              ","UNIFIED        ",5.8023000000000002e+02
+"04","61424","Chico Unified                                                              ","UNIFIED        ",1.1783230000000000e+04
+"04","61432","Durham Unified                                                             ","UNIFIED        ",9.9778999999999996e+02
+"04","61440","Feather Falls Union Elementary                                             ","ELEMENTARY     ",8.5800000000000001e+00
+"04","61457","Golden Feather Union Elementary                                            ","ELEMENTARY     ",5.2229999999999997e+01
+"04","61499","Manzanita Elementary                                                       ","ELEMENTARY     ",3.0795999999999998e+02
+"04","61507","Oroville City Elementary                                                   ","ELEMENTARY     ",2.1529699999999998e+03
+"04","61515","Oroville Union High                                                        ","HIGH           ",1.9810000000000000e+03
+"04","61523","Palermo Union Elementary                                                   ","ELEMENTARY     ",1.2540100000000000e+03
+"04","61531","Paradise Unified                                                           ","UNIFIED        ",3.1528499999999999e+03
+"04","61549","Thermalito Union Elementary                                                ","ELEMENTARY     ",1.4961800000000001e+03
+"04","73379","Pioneer Union Elementary                                                   ","ELEMENTARY     ",5.6939999999999998e+01
+"04","75507","Gridley Unified                                                            ","UNIFIED        ",1.9810599999999999e+03
+"05","10058","Calaveras County Office of Education                                       ","CO OFFICE      ",0.0000000000000000e+00
+"05","61556","Bret Harte Union High                                                      ","HIGH           ",5.9803999999999996e+02
+"05","61564","Calaveras Unified                                                          ","UNIFIED        ",2.6443699999999999e+03
+"05","61572","Mark Twain Union Elementary                                                ","ELEMENTARY     ",7.3486000000000001e+02
+"05","61580","Vallecito Union Elementary                                                 ","ELEMENTARY     ",5.3775000000000000e+02
+"06","10066","Colusa County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"06","61598","Colusa Unified                                                             ","UNIFIED        ",1.4226099999999999e+03
+"06","61606","Maxwell Unified                                                            ","UNIFIED        ",3.2688000000000000e+02
+"06","61614","Pierce Joint Unified                                                       ","UNIFIED        ",1.4156300000000001e+03
+"06","61622","Williams Unified                                                           ","UNIFIED        ",1.2272700000000000e+03
+"07","10074","Contra Costa County Office of Education                                    ","CO OFFICE      ",0.0000000000000000e+00
+"07","40782","Contra Costa SELPA                                                         ","JPA            ",0.0000000000000000e+00
+"07","61630","Acalanes Union High                                                        ","HIGH           ",5.4264600000000000e+03
+"07","61648","Antioch Unified                                                            ","UNIFIED        ",1.5156590000000000e+04
+"07","61655","Brentwood Union Elementary                                                 ","ELEMENTARY     ",8.8982000000000007e+03
+"07","61663","Byron Union Elementary                                                     ","ELEMENTARY     ",1.4182500000000000e+03
+"07","61671","Canyon Elementary                                                          ","ELEMENTARY     ",6.6329999999999998e+01
+"07","61697","John Swett Unified                                                         ","UNIFIED        ",1.3351199999999999e+03
+"07","61705","Knightsen Elementary                                                       ","ELEMENTARY     ",6.0503999999999996e+02
+"07","61713","Lafayette Elementary                                                       ","ELEMENTARY     ",3.4680900000000001e+03
+"07","61721","Liberty Union High                                                         ","HIGH           ",7.7624099999999999e+03
+"07","61739","Martinez Unified                                                           ","UNIFIED        ",3.9356599999999999e+03
+"07","61747","Moraga Elementary                                                          ","ELEMENTARY     ",1.8138299999999999e+03
+"07","61754","Mt. Diablo Unified                                                         ","UNIFIED        ",2.9298720000000001e+04
+"07","61762","Oakley Union Elementary                                                    ","ELEMENTARY     ",5.0135200000000004e+03
+"07","61770","Orinda Union Elementary                                                    ","ELEMENTARY     ",2.4743099999999999e+03
+"07","61788","Pittsburg Unified                                                          ","UNIFIED        ",1.0723850000000000e+04
+"07","61796","West Contra Costa Unified                                                  ","UNIFIED        ",2.6406709999999999e+04
+"07","61804","San Ramon Valley Unified                                                   ","UNIFIED        ",3.1055220000000001e+04
+"07","61812","Walnut Creek Elementary                                                    ","ELEMENTARY     ",3.4163299999999999e+03
+"08","10082","Del Norte County Office of Education                                       ","CO OFFICE      ",0.0000000000000000e+00
+"08","61820","Del Norte County Unified                                                   ","UNIFIED        ",3.3929699999999998e+03
+"09","10090","El Dorado County Office of Education                                       ","CO OFFICE      ",0.0000000000000000e+00
+"09","40287","Central Sierra ROP JPA                                                     ","JPA            ",0.0000000000000000e+00
+"09","61838","Buckeye Union Elementary                                                   ","ELEMENTARY     ",3.9152700000000000e+03
+"09","61846","Camino Union Elementary                                                    ","ELEMENTARY     ",3.8486000000000001e+02
+"09","61853","El Dorado Union High                                                       ","HIGH           ",6.1954700000000003e+03
+"09","61879","Gold Oak Union Elementary                                                  ","ELEMENTARY     ",4.4731000000000000e+02
+"09","61887","Gold Trail Union Elementary                                                ","ELEMENTARY     ",6.3140999999999997e+02
+"09","61895","Indian Diggings Elementary                                                 ","ELEMENTARY     ",1.8550000000000001e+01
+"09","61903","Lake Tahoe Unified                                                         ","UNIFIED        ",3.5900200000000000e+03
+"09","61911","Latrobe Elementary                                                         ","ELEMENTARY     ",1.4116000000000000e+02
+"09","61929","Mother Lode Union Elementary                                               ","ELEMENTARY     ",9.8575000000000000e+02
+"09","61945","Pioneer Union Elementary                                                   ","ELEMENTARY     ",2.7469999999999999e+02
+"09","61952","Placerville Union Elementary                                               ","ELEMENTARY     ",1.2410999999999999e+03
+"09","61960","Pollock Pines Elementary                                                   ","ELEMENTARY     ",6.2608000000000004e+02
+"09","61978","Rescue Union Elementary                                                    ","ELEMENTARY     ",3.5310000000000000e+03
+"09","61986","Silver Fork Elementary                                                     ","ELEMENTARY     ",9.6199999999999992e+00
+"09","73783","Black Oak Mine Unified                                                     ","UNIFIED        ",9.7758000000000004e+02
+"10","10108","Fresno County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"10","40535","Southwest Transportation Agency                                            ","JPA            ",0.0000000000000000e+00
+"10","40543","Valley ROP JPA                                                             ","JPA            ",0.0000000000000000e+00
+"10","40816","Central Valley Pre-School JPA                                              ","JPA            ",0.0000000000000000e+00
+"10","40972","South County Support Services Agency                                       ","JPA            ",0.0000000000000000e+00
+"10","40980","Central Valley Support Services JPA                                        ","JPA            ",0.0000000000000000e+00
+"10","61994","Alvina Elementary                                                          ","ELEMENTARY     ",0.0000000000000000e+00
+"10","62026","Big Creek Elementary                                                       ","ELEMENTARY     ",4.4899999999999999e+01
+"10","62042","Burrel Union Elementary                                                    ","ELEMENTARY     ",1.1969000000000000e+02
+"10","62109","Clay Joint Elementary                                                      ","ELEMENTARY     ",2.4061000000000001e+02
+"10","62117","Clovis Unified                                                             ","UNIFIED        ",4.1008480000000003e+04
+"10","62125","Coalinga-Huron Unified                                                     ","UNIFIED        ",4.0156999999999998e+03
+"10","62158","Fowler Unified                                                             ","UNIFIED        ",2.4824400000000001e+03
+"10","62166","Fresno Unified                                                             ","UNIFIED        ",6.6761960000000006e+04
+"10","62240","Kingsburg Elementary Charter                                               ","ELEMENTARY     ",0.0000000000000000e+00
+"10","62257","Kingsburg Joint Union High                                                 ","HIGH           ",1.0991600000000001e+03
+"10","62265","Kings Canyon Joint Unified                                                 ","UNIFIED        ",9.0815300000000007e+03
+"10","62281","Laton Joint Unified                                                        ","UNIFIED        ",6.3177999999999997e+02
+"10","62323","Monroe Elementary                                                          ","ELEMENTARY     ",1.5674000000000001e+02
+"10","62331","Orange Center Elementary                                                   ","ELEMENTARY     ",3.0348000000000002e+02
+"10","62356","Pacific Union Elementary                                                   ","ELEMENTARY     ",3.8844999999999999e+02
+"10","62364","Parlier Unified                                                            ","UNIFIED        ",3.3156399999999999e+03
+"10","62372","Pine Ridge Elementary                                                      ","ELEMENTARY     ",9.9790000000000006e+01
+"10","62380","Raisin City Elementary                                                     ","ELEMENTARY     ",2.7868000000000001e+02
+"10","62414","Sanger Unified                                                             ","UNIFIED        ",1.0417610000000001e+04
+"10","62430","Selma Unified                                                              ","UNIFIED        ",6.0998500000000004e+03
+"10","62513","Washington Colony Elementary                                               ","ELEMENTARY     ",4.4108999999999997e+02
+"10","62539","West Park Elementary                                                       ","ELEMENTARY     ",3.4898000000000002e+02
+"10","62547","Westside Elementary                                                        ","ELEMENTARY     ",1.7786000000000001e+02
+"10","73809","Firebaugh-Las Deltas Unified                                               ","UNIFIED        ",2.1555599999999999e+03
+"10","73965","Central Unified                                                            ","UNIFIED        ",1.4932980000000000e+04
+"10","73999","Kerman Unified                                                             ","UNIFIED        ",5.0188599999999997e+03
+"10","75127","Mendota Unified                                                            ","UNIFIED        ",3.3303200000000002e+03
+"10","75234","Golden Plains Unified                                                      ","UNIFIED        ",1.5466300000000001e+03
+"10","75275","Sierra Unified                                                             ","UNIFIED        ",1.1940799999999999e+03
+"10","75408","Riverdale Joint Unified                                                    ","UNIFIED        ",1.5066500000000001e+03
+"10","75598","Caruthers Unified                                                          ","UNIFIED        ",1.4433499999999999e+03
+"10","76554","Center for Advanced Research & Technology (CART) JPA                       ","JPA            ",0.0000000000000000e+00
+"10","76778","Washington Unified                                                         ","UNIFIED        ",2.4610200000000000e+03
+"10","77255","Education Technology JPA                                                   ","JPA            ",0.0000000000000000e+00
+"11","10116","Glenn County Office of Education                                           ","CO OFFICE      ",0.0000000000000000e+00
+"11","62554","Capay Joint Union Elementary                                               ","ELEMENTARY     ",1.9772999999999999e+02
+"11","62596","Lake Elementary                                                            ","ELEMENTARY     ",1.8000000000000000e+02
+"11","62638","Plaza Elementary                                                           ","ELEMENTARY     ",1.9978999999999999e+02
+"11","62646","Princeton Joint Unified                                                    ","UNIFIED        ",1.3586000000000001e+02
+"11","62653","Stony Creek Joint Unified                                                  ","UNIFIED        ",5.9680000000000000e+01
+"11","62661","Willows Unified                                                            ","UNIFIED        ",1.3803800000000001e+03
+"11","75481","Orland Joint Unified                                                       ","UNIFIED        ",2.1338200000000002e+03
+"11","76562","Hamilton Unified                                                           ","UNIFIED        ",6.8778999999999996e+02
+"12","10124","Humboldt County Office of Education                                        ","CO OFFICE      ",0.0000000000000000e+00
+"12","62679","Arcata Elementary                                                          ","ELEMENTARY     ",4.9724000000000001e+02
+"12","62687","Northern Humboldt Union High                                               ","HIGH           ",1.4063099999999999e+03
+"12","62695","Big Lagoon Union Elementary                                                ","ELEMENTARY     ",1.6469999999999999e+01
+"12","62703","Blue Lake Union Elementary                                                 ","ELEMENTARY     ",1.5044000000000000e+02
+"12","62729","Bridgeville Elementary                                                     ","ELEMENTARY     ",2.9940000000000001e+01
+"12","62737","Cuddeback Union Elementary                                                 ","ELEMENTARY     ",1.4243000000000001e+02
+"12","62745","Cutten Elementary                                                          ","ELEMENTARY     ",5.8991999999999996e+02
+"12","62794","Fieldbrook Elementary                                                      ","ELEMENTARY     ",1.3275999999999999e+02
+"12","62810","Fortuna Union High                                                         ","HIGH           ",1.0112300000000000e+03
+"12","62828","Freshwater Elementary                                                      ","ELEMENTARY     ",2.8874000000000001e+02
+"12","62836","Garfield Elementary                                                        ","ELEMENTARY     ",6.0280000000000001e+01
+"12","62851","Green Point Elementary                                                     ","ELEMENTARY     ",1.7829999999999998e+01
+"12","62885","Hydesville Elementary                                                      ","ELEMENTARY     ",1.8138999999999999e+02
+"12","62893","Jacoby Creek Elementary                                                    ","ELEMENTARY     ",4.4808999999999997e+02
+"12","62901","Klamath-Trinity Joint Unified                                              ","UNIFIED        ",8.9476999999999998e+02
+"12","62919","Kneeland Elementary                                                        ","ELEMENTARY     ",1.3340000000000000e+01
+"12","62927","Loleta Union Elementary                                                    ","ELEMENTARY     ",1.0556999999999999e+02
+"12","62935","Maple Creek Elementary                                                     ","ELEMENTARY     ",4.8200000000000003e+00
+"12","62950","Mckinleyville Union Elementary                                             ","ELEMENTARY     ",1.0664200000000001e+03
+"12","62968","Orick Elementary                                                           ","ELEMENTARY     ",1.8480000000000000e+01
+"12","62976","Pacific Union Elementary                                                   ","ELEMENTARY     ",5.3301999999999998e+02
+"12","62984","Peninsula Union Elementary                                                 ","ELEMENTARY     ",3.8500000000000000e+01
+"12","63008","Rio Dell Elementary                                                        ","ELEMENTARY     ",2.9114999999999998e+02
+"12","63024","Scotia Union Elementary                                                    ","ELEMENTARY     ",1.6881000000000000e+02
+"12","63032","South Bay Union Elementary                                                 ","ELEMENTARY     ",3.9077999999999997e+02
+"12","63040","Southern Humboldt Joint Unified                                            ","UNIFIED        ",6.9022000000000003e+02
+"12","63057","Trinidad Union Elementary                                                  ","ELEMENTARY     ",1.9231000000000000e+02
+"12","75374","Ferndale Unified                                                           ","UNIFIED        ",4.5063999999999999e+02
+"12","75382","Mattole Unified                                                            ","UNIFIED        ",4.8789999999999999e+01
+"12","75515","Eureka City Unified                                                        ","UNIFIED        ",3.3876599999999999e+03
+"12","76802","Fortuna Elementary                                                         ","ELEMENTARY     ",1.0816800000000001e+03
+"13","10132","Imperial County Office of Education                                        ","CO OFFICE      ",0.0000000000000000e+00
+"13","40212","Imperial Valley ROP JPA                                                    ","JPA            ",0.0000000000000000e+00
+"13","63073","Brawley Elementary                                                         ","ELEMENTARY     ",3.8599699999999998e+03
+"13","63081","Brawley Union High                                                         ","HIGH           ",1.8435500000000000e+03
+"13","63099","Calexico Unified                                                           ","UNIFIED        ",8.7865599999999995e+03
+"13","63107","Calipatria Unified                                                         ","UNIFIED        ",1.0802100000000000e+03
+"13","63115","Central Union High                                                         ","HIGH           ",3.9528000000000002e+03
+"13","63123","El Centro Elementary                                                       ","ELEMENTARY     ",5.0936000000000004e+03
+"13","63131","Heber Elementary                                                           ","ELEMENTARY     ",1.2261700000000001e+03
+"13","63149","Holtville Unified                                                          ","UNIFIED        ",1.5093699999999999e+03
+"13","63164","Imperial Unified                                                           ","UNIFIED        ",4.1179099999999999e+03
+"13","63172","Magnolia Union Elementary                                                  ","ELEMENTARY     ",1.3759999999999999e+02
+"13","63180","Mccabe Union Elementary                                                    ","ELEMENTARY     ",1.3237000000000000e+03
+"13","63198","Meadows Union Elementary                                                   ","ELEMENTARY     ",4.7322000000000003e+02
+"13","63206","Mulberry Elementary                                                        ","ELEMENTARY     ",7.4790000000000006e+01
+"13","63214","San Pasqual Valley Unified                                                 ","UNIFIED        ",6.4587000000000000e+02
+"13","63222","Seeley Union Elementary                                                    ","ELEMENTARY     ",3.5948000000000002e+02
+"13","63230","Westmorland Union Elementary                                               ","ELEMENTARY     ",3.9042000000000002e+02
+"14","10140","Inyo County Office of Education                                            ","CO OFFICE      ",0.0000000000000000e+00
+"14","63248","Big Pine Unified                                                           ","UNIFIED        ",1.2809000000000000e+02
+"14","63271","Death Valley Unified                                                       ","UNIFIED        ",2.5210000000000001e+01
+"14","63289","Lone Pine Unified                                                          ","UNIFIED        ",2.9548000000000002e+02
+"14","63297","Owens Valley Unified                                                       ","UNIFIED        ",7.4299999999999997e+01
+"14","63305","Round Valley Joint Elementary                                              ","ELEMENTARY     ",1.2713000000000000e+02
+"14","76687","Bishop Unified                                                             ","UNIFIED        ",1.8625599999999999e+03
+"14","76844","Inyo County Career Technical Education                                     ","JPA            ",0.0000000000000000e+00
+"15","10157","Kern County Office of Education                                            ","CO OFFICE      ",0.0000000000000000e+00
+"15","40113","North Kern Vocational Training Center JPA                                  ","JPA            ",0.0000000000000000e+00
+"15","63313","Arvin Union Elementary                                                     ","ELEMENTARY     ",2.9839899999999998e+03
+"15","63321","Bakersfield City Elementary                                                ","ELEMENTARY     ",2.9418090000000000e+04
+"15","63339","Beardsley Elementary                                                       ","ELEMENTARY     ",1.8142500000000000e+03
+"15","63347","Belridge Elementary                                                        ","ELEMENTARY     ",3.6119999999999997e+01
+"15","63354","Blake Elementary                                                           ","ELEMENTARY     ",1.3279999999999999e+01
+"15","63362","Panama-Buena Vista Union Elementary                                        ","ELEMENTARY     ",1.7843130000000001e+04
+"15","63370","Buttonwillow Union Elementary                                              ","ELEMENTARY     ",3.1569000000000000e+02
+"15","63388","Caliente Union Elementary                                                  ","ELEMENTARY     ",4.4350000000000001e+01
+"15","63404","Delano Union Elementary                                                    ","ELEMENTARY     ",5.0732200000000003e+03
+"15","63412","Delano Joint Union High                                                    ","HIGH           ",4.0283499999999999e+03
+"15","63420","Di Giorgio Elementary                                                      ","ELEMENTARY     ",2.0272999999999999e+02
+"15","63438","Edison Elementary                                                          ","ELEMENTARY     ",1.0140200000000000e+03
+"15","63446","Elk Hills Elementary                                                       ","ELEMENTARY     ",1.8086000000000001e+02
+"15","63461","Fairfax Elementary                                                         ","ELEMENTARY     ",2.5635200000000000e+03
+"15","63479","Fruitvale Elementary                                                       ","ELEMENTARY     ",3.0623600000000001e+03
+"15","63487","General Shafter Elementary                                                 ","ELEMENTARY     ",1.5406999999999999e+02
+"15","63503","Greenfield Union                                                           ","ELEMENTARY     ",9.1500100000000002e+03
+"15","63529","Kern High                                                                  ","HIGH           ",3.7677860000000001e+04
+"15","63545","Kernville Union Elementary                                                 ","ELEMENTARY     ",8.4061000000000001e+02
+"15","63552","Lakeside Union Elementary                                                  ","ELEMENTARY     ",1.3322200000000000e+03
+"15","63560","Lamont Elementary                                                          ","ELEMENTARY     ",2.8864299999999998e+03
+"15","63578","Richland Union Elementary                                                  ","ELEMENTARY     ",2.7807700000000000e+03
+"15","63586","Linns Valley-Poso Flat Union                                               ","ELEMENTARY     ",1.7850000000000001e+01
+"15","63594","Lost Hills Union Elementary                                                ","ELEMENTARY     ",4.0510000000000002e+02
+"15","63610","Maple Elementary                                                           ","ELEMENTARY     ",2.8219999999999999e+02
+"15","63628","Maricopa Unified                                                           ","UNIFIED        ",2.7597000000000003e+02
+"15","63651","Mckittrick Elementary                                                      ","ELEMENTARY     ",7.1969999999999999e+01
+"15","63669","Midway Elementary                                                          ","ELEMENTARY     ",8.1430000000000007e+01
+"15","63677","Mojave Unified                                                             ","UNIFIED        ",2.5598699999999999e+03
+"15","63685","Muroc Joint Unified                                                        ","UNIFIED        ",1.6887100000000000e+03
+"15","63693","Norris Elementary                                                          ","ELEMENTARY     ",4.0664299999999998e+03
+"15","63719","Pond Union Elementary                                                      ","ELEMENTARY     ",1.8533000000000001e+02
+"15","63750","Rosedale Union Elementary                                                  ","ELEMENTARY     ",5.5935900000000001e+03
+"15","63768","Semitropic Elementary                                                      ","ELEMENTARY     ",2.0500000000000000e+02
+"15","63776","Southern Kern Unified                                                      ","UNIFIED        ",3.3291799999999998e+03
+"15","63784","South Fork Union Elementary                                                ","ELEMENTARY     ",2.4371000000000001e+02
+"15","63792","Standard Elementary                                                        ","ELEMENTARY     ",2.8823499999999999e+03
+"15","63800","Taft City Elementary                                                       ","ELEMENTARY     ",2.2181599999999999e+03
+"15","63818","Taft Union High                                                            ","HIGH           ",9.5253999999999996e+02
+"15","63826","Tehachapi Unified                                                          ","UNIFIED        ",4.0297800000000002e+03
+"15","63834","Vineland Elementary                                                        ","ELEMENTARY     ",6.3748000000000002e+02
+"15","63842","Wasco Union Elementary                                                     ","ELEMENTARY     ",3.5146599999999999e+03
+"15","63859","Wasco Union High                                                           ","HIGH           ",1.7501900000000001e+03
+"15","73544","Rio Bravo-Greeley Union Elementary                                         ","ELEMENTARY     ",1.0333599999999999e+03
+"15","73742","Sierra Sands Unified                                                       ","UNIFIED        ",4.8490500000000002e+03
+"15","73908","Mcfarland Unified                                                          ","UNIFIED        ",3.3069299999999998e+03
+"15","75168","El Tejon Unified                                                           ","UNIFIED        ",6.8440999999999997e+02
+"16","10165","Kings County Office of Education                                           ","CO OFFICE      ",0.0000000000000000e+00
+"16","63875","Armona Union Elementary                                                    ","ELEMENTARY     ",9.1225999999999999e+02
+"16","63883","Central Union Elementary                                                   ","ELEMENTARY     ",1.7776500000000001e+03
+"16","63891","Corcoran Joint Unified                                                     ","UNIFIED        ",3.1185300000000002e+03
+"16","63917","Hanford Elementary                                                         ","ELEMENTARY     ",5.3459399999999996e+03
+"16","63925","Hanford Joint Union High                                                   ","HIGH           ",3.6035999999999999e+03
+"16","63933","Island Union Elementary                                                    ","ELEMENTARY     ",0.0000000000000000e+00
+"16","63941","Kings River-Hardwick Union Elementary                                      ","ELEMENTARY     ",0.0000000000000000e+00
+"16","63958","Kit Carson Union Elementary                                                ","ELEMENTARY     ",3.6316000000000003e+02
+"16","63966","Lakeside Union Elementary                                                  ","ELEMENTARY     ",3.0557999999999998e+02
+"16","63974","Lemoore Union Elementary                                                   ","ELEMENTARY     ",3.0352500000000000e+03
+"16","63982","Lemoore Union High                                                         ","HIGH           ",1.8123499999999999e+03
+"16","63990","Pioneer Union Elementary                                                   ","ELEMENTARY     ",0.0000000000000000e+00
+"16","73932","Reef-Sunset Unified                                                        ","UNIFIED        ",2.5508600000000001e+03
+"16","76364","Kings Schools Transportation Authority JPA                                 ","JPA            ",0.0000000000000000e+00
+"17","10173","Lake County Office of Education                                            ","CO OFFICE      ",0.0000000000000000e+00
+"17","64014","Kelseyville Unified                                                        ","UNIFIED        ",1.5963299999999999e+03
+"17","64022","Konocti Unified                                                            ","UNIFIED        ",3.2261399999999999e+03
+"17","64030","Lakeport Unified                                                           ","UNIFIED        ",1.3658900000000001e+03
+"17","64048","Lucerne Elementary                                                         ","ELEMENTARY     ",2.4641000000000000e+02
+"17","64055","Middletown Unified                                                         ","UNIFIED        ",1.3991099999999999e+03
+"17","76976","Upper Lake Unified                                                         ","UNIFIED        ",7.6023000000000002e+02
+"18","10181","Lassen County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"18","64089","Big Valley Joint Unified                                                   ","UNIFIED        ",1.2278000000000000e+02
+"18","64105","Janesville Union Elementary                                                ","ELEMENTARY     ",3.5501999999999998e+02
+"18","64113","Johnstonville Elementary                                                   ","ELEMENTARY     ",1.7838999999999999e+02
+"18","64139","Lassen Union High                                                          ","HIGH           ",7.2486000000000001e+02
+"18","64162","Ravendale-Termo Elementary                                                 ","ELEMENTARY     ",6.5099999999999998e+00
+"18","64170","Richmond Elementary                                                        ","ELEMENTARY     ",2.1300000000000000e+02
+"18","64188","Shaffer Union Elementary                                                   ","ELEMENTARY     ",1.8613000000000000e+02
+"18","64196","Susanville Elementary                                                      ","ELEMENTARY     ",1.0445799999999999e+03
+"18","64204","Westwood Unified                                                           ","UNIFIED        ",1.6550000000000000e+02
+"18","75036","Fort Sage Unified                                                          ","UNIFIED        ",1.2413000000000000e+02
+"19","10199","Los Angeles County Office of Education                                     ","CO OFFICE      ",0.0000000000000000e+00
+"19","40139","Pupil Transportation Co-Op JPA                                             ","JPA            ",0.0000000000000000e+00
+"19","40147","Antelope Valley Schools Transportation Agency                              ","JPA            ",0.0000000000000000e+00
+"19","40154","East San Gabriel Valley ROP                                                ","JPA            ",0.0000000000000000e+00
+"19","40162","Tri-Cities ROP                                                             ","JPA            ",0.0000000000000000e+00
+"19","40188","La Puente Valley ROP                                                       ","JPA            ",0.0000000000000000e+00
+"19","40196","Southern California ROP                                                    ","JPA            ",0.0000000000000000e+00
+"19","40683","Partners In Nutrition Cooperative                                          ","JPA            ",0.0000000000000000e+00
+"19","40691","San Antonio ROP                                                            ","JPA            ",0.0000000000000000e+00
+"19","40709","Santa Clarita Vlly Sch Food Svs Agency JPA                                 ","JPA            ",0.0000000000000000e+00
+"19","64212","ABC Unified                                                                ","UNIFIED        ",1.9754360000000001e+04
+"19","64246","Antelope Valley Union High                                                 ","HIGH           ",1.9425970000000001e+04
+"19","64261","Arcadia Unified                                                            ","UNIFIED        ",9.1289799999999996e+03
+"19","64279","Azusa Unified                                                              ","UNIFIED        ",7.7441599999999999e+03
+"19","64287","Baldwin Park Unified                                                       ","UNIFIED        ",1.2017209999999999e+04
+"19","64295","Bassett Unified                                                            ","UNIFIED        ",3.3181100000000001e+03
+"19","64303","Bellflower Unified                                                         ","UNIFIED        ",1.1291620000000001e+04
+"19","64311","Beverly Hills Unified                                                      ","UNIFIED        ",3.5993499999999999e+03
+"19","64329","Bonita Unified                                                             ","UNIFIED        ",9.6706900000000005e+03
+"19","64337","Burbank Unified                                                            ","UNIFIED        ",1.4579309999999999e+04
+"19","64345","Castaic Union Elementary                                                   ","ELEMENTARY     ",1.9718800000000001e+03
+"19","64352","Centinela Valley Union High                                                ","HIGH           ",5.9350799999999999e+03
+"19","64378","Charter Oak Unified                                                        ","UNIFIED        ",4.4570100000000002e+03
+"19","64394","Claremont Unified                                                          ","UNIFIED        ",6.6589899999999998e+03
+"19","64436","Covina-Valley Unified                                                      ","UNIFIED        ",1.1258910000000000e+04
+"19","64444","Culver City Unified                                                        ","UNIFIED        ",6.8649899999999998e+03
+"19","64451","Downey Unified                                                             ","UNIFIED        ",2.1135169999999998e+04
+"19","64469","Duarte Unified                                                             ","UNIFIED        ",3.4168099999999999e+03
+"19","64477","Eastside Union Elementary                                                  ","ELEMENTARY     ",3.0880100000000002e+03
+"19","64485","East Whittier City Elementary                                              ","ELEMENTARY     ",8.3231200000000008e+03
+"19","64501","El Monte City Elementary                                                   ","ELEMENTARY     ",7.9290699999999997e+03
+"19","64519","El Monte Union High                                                        ","HIGH           ",8.1300699999999997e+03
+"19","64527","El Rancho Unified                                                          ","UNIFIED        ",8.1589700000000003e+03
+"19","64535","El Segundo Unified                                                         ","UNIFIED        ",3.3400100000000002e+03
+"19","64550","Garvey Elementary                                                          ","ELEMENTARY     ",4.4476499999999996e+03
+"19","64568","Glendale Unified                                                           ","UNIFIED        ",2.4874430000000000e+04
+"19","64576","Glendora Unified                                                           ","UNIFIED        ",6.9431499999999996e+03
+"19","64584","Gorman Joint                                                               ","ELEMENTARY     ",7.4569999999999993e+01
+"19","64592","Hawthorne Elementary                                                       ","ELEMENTARY     ",7.1765000000000000e+03
+"19","64600","Hermosa Beach City Elementary                                              ","ELEMENTARY     ",1.2933900000000001e+03
+"19","64626","Hughes-Elizabeth Lakes Union Elementary                                    ","ELEMENTARY     ",1.8299000000000001e+02
+"19","64634","Inglewood Unified                                                          ","UNIFIED        ",7.4682900000000000e+03
+"19","64642","Keppel Union Elementary                                                    ","ELEMENTARY     ",2.5118499999999999e+03
+"19","64659","La Canada Unified                                                          ","UNIFIED        ",4.0369400000000001e+03
+"19","64667","Lancaster Elementary                                                       ","ELEMENTARY     ",1.3287610000000001e+04
+"19","64683","Las Virgenes Unified                                                       ","UNIFIED        ",1.0663530000000001e+04
+"19","64691","Lawndale Elementary                                                        ","ELEMENTARY     ",5.0700299999999997e+03
+"19","64709","Lennox Elementary                                                          ","ELEMENTARY     ",5.0891199999999999e+03
+"19","64717","Little Lake City Elementary                                                ","ELEMENTARY     ",4.1539200000000001e+03
+"19","64725","Long Beach Unified                                                         ","UNIFIED        ",6.9003320000000007e+04
+"19","64733","Los Angeles Unified                                                        ","UNIFIED        ",4.1422451000000001e+05
+"19","64758","Los Nietos Elementary                                                      ","ELEMENTARY     ",1.5047800000000000e+03
+"19","64766","Lowell Joint Elementary                                                    ","ELEMENTARY     ",3.0694200000000001e+03
+"19","64774","Lynwood Unified                                                            ","UNIFIED        ",1.2790360000000001e+04
+"19","64790","Monrovia Unified                                                           ","UNIFIED        ",5.1491800000000003e+03
+"19","64808","Montebello Unified                                                         ","UNIFIED        ",2.3871220000000001e+04
+"19","64816","Mountain View Elementary                                                   ","ELEMENTARY     ",6.0583400000000001e+03
+"19","64832","Newhall Elementary                                                         ","ELEMENTARY     ",6.3201000000000004e+03
+"19","64840","Norwalk-La Mirada Unified                                                  ","UNIFIED        ",1.6663209999999999e+04
+"19","64857","Palmdale Elementary                                                        ","ELEMENTARY     ",1.8084470000000001e+04
+"19","64865","Palos Verdes Peninsula Unified                                             ","UNIFIED        ",1.0824850000000000e+04
+"19","64873","Paramount Unified                                                          ","UNIFIED        ",1.4139590000000000e+04
+"19","64881","Pasadena Unified                                                           ","UNIFIED        ",1.5395840000000000e+04
+"19","64907","Pomona Unified                                                             ","UNIFIED        ",2.1581650000000001e+04
+"19","64931","Rosemead Elementary                                                        ","ELEMENTARY     ",2.3649400000000001e+03
+"19","64964","San Marino Unified                                                         ","UNIFIED        ",2.9033600000000001e+03
+"19","64980","Santa Monica-Malibu Unified                                                ","UNIFIED        ",1.0070340000000000e+04
+"19","64998","Saugus Union Elementary                                                    ","ELEMENTARY     ",9.4620499999999993e+03
+"19","65029","South Pasadena Unified                                                     ","UNIFIED        ",4.6272700000000004e+03
+"19","65037","South Whittier Elementary                                                  ","ELEMENTARY     ",2.6001900000000001e+03
+"19","65045","Sulphur Springs Union Elementary                                           ","ELEMENTARY     ",5.1233000000000002e+03
+"19","65052","Temple City Unified                                                        ","UNIFIED        ",5.5290500000000002e+03
+"19","65060","Torrance Unified                                                           ","UNIFIED        ",2.2483700000000001e+04
+"19","65078","Valle Lindo Elementary                                                     ","ELEMENTARY     ",1.0490799999999999e+03
+"19","65094","West Covina Unified                                                        ","UNIFIED        ",8.2178899999999994e+03
+"19","65102","Westside Union Elementary                                                  ","ELEMENTARY     ",9.2108099999999995e+03
+"19","65110","Whittier City Elementary                                                   ","ELEMENTARY     ",5.8068299999999999e+03
+"19","65128","Whittier Union High                                                        ","HIGH           ",1.0868299999999999e+04
+"19","65136","William S. Hart Union High                                                 ","HIGH           ",2.1359299999999999e+04
+"19","65151","Wilsona Elementary                                                         ","ELEMENTARY     ",1.1777900000000000e+03
+"19","73437","Compton Unified                                                            ","UNIFIED        ",1.9816209999999999e+04
+"19","73445","Hacienda La Puente Unified                                                 ","UNIFIED        ",1.7395209999999999e+04
+"19","73452","Rowland Unified                                                            ","UNIFIED        ",1.2728740000000000e+04
+"19","73460","Walnut Valley Unified                                                      ","UNIFIED        ",1.3575790000000001e+04
+"19","75291","San Gabriel Unified                                                        ","UNIFIED        ",4.8167600000000002e+03
+"19","75309","Acton-Agua Dulce Unified                                                   ","UNIFIED        ",1.0276300000000001e+03
+"19","75333","Manhattan Beach Unified                                                    ","UNIFIED        ",6.3106999999999998e+03
+"19","75341","Redondo Beach Unified                                                      ","UNIFIED        ",9.6328600000000006e+03
+"19","75713","Alhambra Unified                                                           ","UNIFIED        ",1.5966719999999999e+04
+"19","76869","Wiseburn Unified                                                           ","UNIFIED        ",2.4464299999999998e+03
+"19","77008","California Advancing Pathways for Students in Los Angeles County JPA       ","JPA            ",0.0000000000000000e+00
+"20","10207","Madera County Superintendent of Schools                                    ","CO OFFICE      ",0.0000000000000000e+00
+"20","65177","Alview-Dairyland Union Elementary                                          ","ELEMENTARY     ",3.8831000000000000e+02
+"20","65185","Bass Lake Joint Union Elementary                                           ","ELEMENTARY     ",8.4689999999999998e+02
+"20","65193","Chowchilla Elementary                                                      ","ELEMENTARY     ",2.1599899999999998e+03
+"20","65201","Chowchilla Union High                                                      ","HIGH           ",1.0351300000000001e+03
+"20","65243","Madera Unified                                                             ","UNIFIED        ",1.8888330000000002e+04
+"20","65276","Raymond-Knowles Union Elementary                                           ","ELEMENTARY     ",7.8040000000000006e+01
+"20","75580","Golden Valley Unified                                                      ","UNIFIED        ",1.9175899999999999e+03
+"20","75606","Chawanakee Unified                                                         ","UNIFIED        ",6.9350999999999999e+02
+"20","76414","Yosemite Unified                                                           ","UNIFIED        ",1.4514200000000001e+03
+"21","10215","Marin County Office of Education                                           ","CO OFFICE      ",0.0000000000000000e+00
+"21","40873","Marin Pupil Transportation Agency JPA                                      ","JPA            ",0.0000000000000000e+00
+"21","65300","Bolinas-Stinson Union Elementary                                           ","ELEMENTARY     ",8.1189999999999998e+01
+"21","65318","Dixie Elementary                                                           ","ELEMENTARY     ",1.9124300000000001e+03
+"21","65334","Kentfield Elementary                                                       ","ELEMENTARY     ",1.1775799999999999e+03
+"21","65342","Laguna Joint Elementary                                                    ","ELEMENTARY     ",1.3510000000000000e+01
+"21","65359","Lagunitas Elementary                                                       ","ELEMENTARY     ",2.2037000000000000e+02
+"21","65367","Larkspur-Corte Madera                                                      ","ELEMENTARY     ",1.4875000000000000e+03
+"21","65375","Lincoln Elementary                                                         ","ELEMENTARY     ",3.8700000000000001e+00
+"21","65391","Mill Valley Elementary                                                     ","ELEMENTARY     ",2.8388699999999999e+03
+"21","65409","Nicasio Elementary                                                         ","ELEMENTARY     ",3.7670000000000002e+01
+"21","65417","Novato Unified                                                             ","UNIFIED        ",7.1209799999999996e+03
+"21","65425","Reed Union Elementary                                                      ","ELEMENTARY     ",1.3077000000000000e+03
+"21","65433","Ross Elementary                                                            ","ELEMENTARY     ",3.7987000000000000e+02
+"21","65458","San Rafael City Elementary                                                 ","ELEMENTARY     ",4.4443400000000001e+03
+"21","65466","San Rafael City High                                                       ","HIGH           ",2.4903600000000001e+03
+"21","65474","Sausalito Marin City Elementary                                            ","ELEMENTARY     ",1.0848999999999999e+02
+"21","65482","Tamalpais Union High                                                       ","HIGH           ",4.7845900000000001e+03
+"21","73361","Shoreline Unified                                                          ","UNIFIED        ",4.7713000000000000e+02
+"21","75002","Ross Valley Elementary                                                     ","ELEMENTARY     ",1.9970100000000000e+03
+"22","10223","Mariposa County Office of Education                                        ","CO OFFICE      ",0.0000000000000000e+00
+"22","65532","Mariposa County Unified                                                    ","UNIFIED        ",1.5975699999999999e+03
+"23","10231","Mendocino County Office of Education                                       ","CO OFFICE      ",0.0000000000000000e+00
+"23","65540","Anderson Valley Unified                                                    ","UNIFIED        ",4.4600000000000000e+02
+"23","65565","Fort Bragg Unified                                                         ","UNIFIED        ",1.6780300000000000e+03
+"23","65573","Manchester Union Elementary                                                ","ELEMENTARY     ",3.6430000000000000e+01
+"23","65581","Mendocino Unified                                                          ","UNIFIED        ",4.9635000000000002e+02
+"23","65607","Round Valley Unified                                                       ","UNIFIED        ",3.8105000000000001e+02
+"23","65615","Ukiah Unified                                                              ","UNIFIED        ",5.5922600000000002e+03
+"23","65623","Willits Unified                                                            ","UNIFIED        ",1.4021099999999999e+03
+"23","73866","Potter Valley Community Unified                                            ","UNIFIED        ",2.4672000000000000e+02
+"23","73916","Laytonville Unified                                                        ","UNIFIED        ",3.3406999999999999e+02
+"23","75218","Leggett Valley Unified                                                     ","UNIFIED        ",1.1614000000000000e+02
+"23","76349","Arena Union Elementary/Point Arena Joint Union High                        ","Comm Admin Dist",3.4333999999999997e+02
+"24","10249","Merced County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"24","65631","Atwater Elementary                                                         ","ELEMENTARY     ",4.8986700000000001e+03
+"24","65649","Ballico-Cressey Elementary                                                 ","ELEMENTARY     ",4.5920000000000002e+01
+"24","65680","El Nido Elementary                                                         ","ELEMENTARY     ",1.6941000000000000e+02
+"24","65698","Hilmar Unified                                                             ","UNIFIED        ",2.2494299999999998e+03
+"24","65722","Le Grand Union Elementary                                                  ","ELEMENTARY     ",3.5837000000000000e+02
+"24","65730","Le Grand Union High                                                        ","HIGH           ",4.7083999999999997e+02
+"24","65748","Livingston Union Elementary                                                ","ELEMENTARY     ",2.3848699999999999e+03
+"24","65755","Los Banos Unified                                                          ","UNIFIED        ",1.0450780000000001e+04
+"24","65763","McSwain Union Elementary                                                   ","ELEMENTARY     ",8.4503999999999996e+02
+"24","65771","Merced City Elementary                                                     ","ELEMENTARY     ",1.0550320000000000e+04
+"24","65789","Merced Union High                                                          ","HIGH           ",9.9451299999999992e+03
+"24","65813","Plainsburg Union Elementary                                                ","ELEMENTARY     ",1.0439000000000000e+02
+"24","65821","Planada Elementary                                                         ","ELEMENTARY     ",7.8770000000000005e+02
+"24","65839","Snelling-Merced Falls Union Elementary                                     ","ELEMENTARY     ",7.1560000000000002e+01
+"24","65862","Weaver Union Elementary                                                    ","ELEMENTARY     ",2.7556599999999999e+03
+"24","65870","Winton Elementary                                                          ","ELEMENTARY     ",1.9179800000000000e+03
+"24","73619","Gustine Unified                                                            ","UNIFIED        ",1.7365799999999999e+03
+"24","73726","Merced River Union Elementary                                              ","ELEMENTARY     ",1.7366000000000000e+02
+"24","75317","Dos Palos Oro Loma Joint Unified                                           ","UNIFIED        ",2.2816100000000001e+03
+"24","75366","Delhi Unified                                                              ","UNIFIED        ",2.4650999999999999e+03
+"24","76448","East Merced County Public Facilities Financing Authority                   ","JPA            ",0.0000000000000000e+00
+"25","10256","Modoc County Office of Education                                           ","CO OFFICE      ",0.0000000000000000e+00
+"25","65896","Surprise Valley Joint Unified                                              ","UNIFIED        ",1.0803000000000000e+02
+"25","73585","Modoc Joint Unified                                                        ","UNIFIED        ",8.0148000000000002e+02
+"25","73593","Tulelake Basin Joint Unified                                               ","UNIFIED        ",3.6331000000000000e+02
+"26","10264","Mono County Office of Education                                            ","CO OFFICE      ",0.0000000000000000e+00
+"26","73668","Eastern Sierra Unified                                                     ","UNIFIED        ",3.8295999999999998e+02
+"26","73692","Mammoth Unified                                                            ","UNIFIED        ",1.1468699999999999e+03
+"27","10272","Monterey County Office of Education                                        ","CO OFFICE      ",0.0000000000000000e+00
+"27","40105","Mission Trails ROP JPA                                                     ","JPA            ",0.0000000000000000e+00
+"27","65961","Alisal Union Elementary                                                    ","ELEMENTARY     ",8.2738600000000006e+03
+"27","65979","Bradley Union Elementary                                                   ","ELEMENTARY     ",7.1400000000000006e+01
+"27","65987","Carmel Unified                                                             ","UNIFIED        ",2.3591199999999999e+03
+"27","65995","Chualar Union Elementary                                                   ","ELEMENTARY     ",2.9349000000000001e+02
+"27","66027","Graves Elementary                                                          ","ELEMENTARY     ",4.1079999999999998e+01
+"27","66035","Greenfield Union Elementary                                                ","ELEMENTARY     ",3.4434600000000000e+03
+"27","66050","King City Union Elementary                                                 ","ELEMENTARY     ",2.5582399999999998e+03
+"27","66068","South Monterey County Joint Union High                                     ","HIGH           ",2.2007600000000002e+03
+"27","66076","Lagunita Elementary                                                        ","ELEMENTARY     ",9.7700000000000003e+01
+"27","66084","Mission Union Elementary                                                   ","ELEMENTARY     ",1.2423000000000000e+02
+"27","66092","Monterey Peninsula Unified                                                 ","UNIFIED        ",9.0114599999999991e+03
+"27","66134","Pacific Grove Unified                                                      ","UNIFIED        ",1.9043000000000000e+03
+"27","66142","Salinas City Elementary                                                    ","ELEMENTARY     ",8.3001200000000008e+03
+"27","66159","Salinas Union High                                                         ","HIGH           ",1.4887629999999999e+04
+"27","66167","San Antonio Union Elementary                                               ","ELEMENTARY     ",1.1537000000000000e+02
+"27","66175","San Ardo Union Elementary                                                  ","ELEMENTARY     ",1.0358000000000000e+02
+"27","66183","San Lucas Union Elementary                                                 ","ELEMENTARY     ",7.3019999999999996e+01
+"27","66191","Santa Rita Union Elementary                                                ","ELEMENTARY     ",3.4624200000000001e+03
+"27","66225","Spreckels Union Elementary                                                 ","ELEMENTARY     ",9.3882000000000005e+02
+"27","66233","Washington Union Elementary                                                ","ELEMENTARY     ",8.6010000000000002e+02
+"27","73825","North Monterey County Unified                                              ","UNIFIED        ",4.3201099999999997e+03
+"27","75150","Big Sur Unified                                                            ","UNIFIED        ",1.1020000000000000e+01
+"27","75440","Soledad Unified                                                            ","UNIFIED        ",4.6220500000000002e+03
+"27","75473","Gonzales Unified                                                           ","UNIFIED        ",2.2579899999999998e+03
+"28","10280","Napa County Office of Education                                            ","CO OFFICE      ",0.0000000000000000e+00
+"28","66241","Calistoga Joint Unified                                                    ","UNIFIED        ",8.3355999999999995e+02
+"28","66258","Howell Mountain Elementary                                                 ","ELEMENTARY     ",7.6560000000000002e+01
+"28","66266","Napa Valley Unified                                                        ","UNIFIED        ",1.5697360000000001e+04
+"28","66282","Pope Valley Union Elementary                                               ","ELEMENTARY     ",4.6439999999999998e+01
+"28","66290","Saint Helena Unified                                                       ","UNIFIED        ",1.2620999999999999e+03
+"29","10298","Nevada County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"29","40444","Nevada County Pupil Transportation                                         ","JPA            ",0.0000000000000000e+00
+"29","66316","Chicago Park Elementary                                                    ","ELEMENTARY     ",1.1044000000000000e+02
+"29","66324","Clear Creek Elementary                                                     ","ELEMENTARY     ",1.5334000000000000e+02
+"29","66332","Grass Valley Elementary                                                    ","ELEMENTARY     ",1.2063800000000001e+03
+"29","66340","Nevada City Elementary                                                     ","ELEMENTARY     ",6.9061000000000001e+02
+"29","66357","Nevada Joint Union High                                                    ","HIGH           ",2.3834600000000000e+03
+"29","66373","Pleasant Ridge Union Elementary                                            ","ELEMENTARY     ",1.0585000000000000e+03
+"29","66407","Union Hill Elementary                                                      ","ELEMENTARY     ",1.1573000000000000e+02
+"29","66415","Twin Ridges Elementary                                                     ","ELEMENTARY     ",9.0310000000000002e+01
+"29","76745","Nevada County Charter Services Authority (JPA)                             ","JPA            ",0.0000000000000000e+00
+"29","76877","Penn Valley Union Elementary                                               ","ELEMENTARY     ",5.1156999999999999e+02
+"30","10306","Orange County Department of Education                                      ","CO OFFICE      ",0.0000000000000000e+00
+"30","40063","North Orange County ROP JPA                                                ","JPA            ",0.0000000000000000e+00
+"30","40071","Coastline ROP JPA                                                          ","JPA            ",0.0000000000000000e+00
+"30","40097","Greater Anaheim Selpa JPA                                                  ","JPA            ",0.0000000000000000e+00
+"30","66423","Anaheim Elementary                                                         ","ELEMENTARY     ",1.5966490000000000e+04
+"30","66431","Anaheim Union High                                                         ","HIGH           ",2.8683000000000000e+04
+"30","66449","Brea-Olinda Unified                                                        ","UNIFIED        ",5.7769700000000003e+03
+"30","66456","Buena Park Elementary                                                      ","ELEMENTARY     ",4.3270500000000002e+03
+"30","66464","Capistrano Unified                                                         ","UNIFIED        ",4.5170980000000003e+04
+"30","66472","Centralia Elementary                                                       ","ELEMENTARY     ",4.1074799999999996e+03
+"30","66480","Cypress Elementary                                                         ","ELEMENTARY     ",3.8004899999999998e+03
+"30","66498","Fountain Valley Elementary                                                 ","ELEMENTARY     ",6.1520500000000002e+03
+"30","66506","Fullerton Elementary                                                       ","ELEMENTARY     ",1.2652940000000001e+04
+"30","66514","Fullerton Joint Union High                                                 ","HIGH           ",1.3012740000000000e+04
+"30","66522","Garden Grove Unified                                                       ","UNIFIED        ",4.0854239999999998e+04
+"30","66530","Huntington Beach City Elementary                                           ","ELEMENTARY     ",6.4231999999999998e+03
+"30","66548","Huntington Beach Union High                                                ","HIGH           ",1.5164129999999999e+04
+"30","66555","Laguna Beach Unified                                                       ","UNIFIED        ",2.7379899999999998e+03
+"30","66563","La Habra City Elementary                                                   ","ELEMENTARY     ",4.4415500000000002e+03
+"30","66589","Magnolia Elementary                                                        ","ELEMENTARY     ",5.6394099999999999e+03
+"30","66597","Newport-Mesa Unified                                                       ","UNIFIED        ",1.9606459999999999e+04
+"30","66613","Ocean View Elementary                                                      ","ELEMENTARY     ",7.7350900000000001e+03
+"30","66621","Orange Unified                                                             ","UNIFIED        ",2.4206799999999999e+04
+"30","66647","Placentia-Yorba Linda Unified                                              ","UNIFIED        ",2.4262650000000001e+04
+"30","66670","Santa Ana Unified                                                          ","UNIFIED        ",4.4928910000000003e+04
+"30","66696","Savanna Elementary                                                         ","ELEMENTARY     ",2.1154800000000000e+03
+"30","66746","Westminster Elementary                                                     ","ELEMENTARY     ",8.8837600000000002e+03
+"30","73635","Saddleback Valley Unified                                                  ","UNIFIED        ",2.5523669999999998e+04
+"30","73643","Tustin Unified                                                             ","UNIFIED        ",2.2921380000000001e+04
+"30","73650","Irvine Unified                                                             ","UNIFIED        ",3.4271720000000001e+04
+"30","73924","Los Alamitos Unified                                                       ","UNIFIED        ",9.4701200000000008e+03
+"30","74112","College and Career Advantage                                               ","JPA            ",0.0000000000000000e+00
+"31","10314","Placer County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"31","40279","Mid-Placer Transportation JPA                                              ","JPA            ",0.0000000000000000e+00
+"31","40659","Southern Placer Schools Transportation Authority                           ","JPA            ",0.0000000000000000e+00
+"31","66761","Ackerman Charter                                                           ","ELEMENTARY     ",0.0000000000000000e+00
+"31","66779","Alta-Dutch Flat Union Elementary                                           ","ELEMENTARY     ",9.5510000000000005e+01
+"31","66787","Auburn Union Elementary                                                    ","ELEMENTARY     ",1.6637700000000000e+03
+"31","66795","Colfax Elementary                                                          ","ELEMENTARY     ",3.5035000000000002e+02
+"31","66803","Dry Creek Joint Elementary                                                 ","ELEMENTARY     ",6.4987200000000003e+03
+"31","66829","Eureka Union Elementary                                                    ","ELEMENTARY     ",3.2439200000000001e+03
+"31","66837","Foresthill Union Elementary                                                ","ELEMENTARY     ",3.8161000000000001e+02
+"31","66845","Loomis Union Elementary                                                    ","ELEMENTARY     ",2.4101700000000001e+03
+"31","66852","Newcastle Elementary                                                       ","ELEMENTARY     ",1.7334999999999999e+02
+"31","66886","Placer Hills Union Elementary                                              ","ELEMENTARY     ",7.2413000000000000e+02
+"31","66894","Placer Union High                                                          ","HIGH           ",3.6792600000000002e+03
+"31","66910","Roseville City Elementary                                                  ","ELEMENTARY     ",1.0932209999999999e+04
+"31","66928","Roseville Joint Union High                                                 ","HIGH           ",9.7976200000000008e+03
+"31","66944","Tahoe-Truckee Unified                                                      ","UNIFIED        ",3.6756599999999999e+03
+"31","66951","Western Placer Unified                                                     ","UNIFIED        ",6.7647900000000000e+03
+"31","75085","Rocklin Unified                                                            ","UNIFIED        ",1.1589790000000001e+04
+"32","10322","Plumas County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"32","66969","Plumas Unified                                                             ","UNIFIED        ",1.7015799999999999e+03
+"33","10330","Riverside County Office of Education                                       ","CO OFFICE      ",0.0000000000000000e+00
+"33","66977","Alvord Unified                                                             ","UNIFIED        ",1.7539610000000001e+04
+"33","66985","Banning Unified                                                            ","UNIFIED        ",4.2449200000000001e+03
+"33","66993","Beaumont Unified                                                           ","UNIFIED        ",9.9603199999999997e+03
+"33","67033","Corona-Norco Unified                                                       ","UNIFIED        ",5.0989660000000003e+04
+"33","67041","Desert Center Unified                                                      ","UNIFIED        ",2.5149999999999999e+01
+"33","67058","Desert Sands Unified                                                       ","UNIFIED        ",2.4772639999999999e+04
+"33","67082","Hemet Unified                                                              ","UNIFIED        ",2.0074849999999999e+04
+"33","67090","Jurupa Unified                                                             ","UNIFIED        ",1.8355500000000000e+04
+"33","67116","Menifee Union Elementary                                                   ","ELEMENTARY     ",9.9737700000000004e+03
+"33","67124","Moreno Valley Unified                                                      ","UNIFIED        ",3.0564660000000000e+04
+"33","67157","Nuview Union Elementary                                                    ","ELEMENTARY     ",1.4714500000000000e+03
+"33","67173","Palm Springs Unified                                                       ","UNIFIED        ",2.0338860000000001e+04
+"33","67181","Palo Verde Unified                                                         ","UNIFIED        ",2.7619699999999998e+03
+"33","67199","Perris Elementary                                                          ","ELEMENTARY     ",4.6198400000000001e+03
+"33","67207","Perris Union High                                                          ","HIGH           ",9.0082500000000000e+03
+"33","67215","Riverside Unified                                                          ","UNIFIED        ",3.8720169999999998e+04
+"33","67231","Romoland Elementary                                                        ","ELEMENTARY     ",3.9254099999999999e+03
+"33","67249","San Jacinto Unified                                                        ","UNIFIED        ",9.6056900000000005e+03
+"33","73676","Coachella Valley Unified                                                   ","UNIFIED        ",1.6838639999999999e+04
+"33","75176","Lake Elsinore Unified                                                      ","UNIFIED        ",2.0092330000000002e+04
+"33","75192","Temecula Valley Unified                                                    ","UNIFIED        ",2.6622220000000001e+04
+"33","75200","Murrieta Valley Unified                                                    ","UNIFIED        ",2.2088730000000000e+04
+"33","75242","Val Verde Unified                                                          ","UNIFIED        ",1.9342169999999998e+04
+"34","10348","Sacramento County Office of Education                                      ","CO OFFICE      ",0.0000000000000000e+00
+"34","67280","Arcohe Union Elementary                                                    ","ELEMENTARY     ",4.3595999999999998e+02
+"34","67314","Elk Grove Unified                                                          ","UNIFIED        ",6.0022320000000000e+04
+"34","67322","Elverta Joint Elementary                                                   ","ELEMENTARY     ",2.0434999999999999e+02
+"34","67330","Folsom-Cordova Unified                                                     ","UNIFIED        ",1.9502480000000000e+04
+"34","67348","Galt Joint Union Elementary                                                ","ELEMENTARY     ",3.4342199999999998e+03
+"34","67355","Galt Joint Union High                                                      ","HIGH           ",2.0710200000000000e+03
+"34","67413","River Delta Joint Unified                                                  ","UNIFIED        ",1.8493900000000001e+03
+"34","67421","Robla Elementary                                                           ","ELEMENTARY     ",1.9475599999999999e+03
+"34","67439","Sacramento City Unified                                                    ","UNIFIED        ",3.8125120000000003e+04
+"34","67447","San Juan Unified                                                           ","UNIFIED        ",3.7400580000000002e+04
+"34","73973","Center Joint Unified                                                       ","UNIFIED        ",4.0133299999999999e+03
+"34","75283","Natomas Unified                                                            ","UNIFIED        ",9.7536499999999996e+03
+"34","76505","Twin Rivers Unified                                                        ","UNIFIED        ",2.2012430000000000e+04
+"35","10355","San Benito County Office of Education                                      ","CO OFFICE      ",0.0000000000000000e+00
+"35","67454","Bitterwater-Tully Elementary                                               ","ELEMENTARY     ",3.5079999999999998e+01
+"35","67462","Cienega Union Elementary                                                   ","ELEMENTARY     ",2.8000000000000000e+01
+"35","67470","Hollister Elementary                                                       ","ELEMENTARY     ",5.3347500000000000e+03
+"35","67488","Jefferson Elementary                                                       ","ELEMENTARY     ",6.4400000000000004e+00
+"35","67504","North County Joint Union Elementary                                        ","ELEMENTARY     ",6.9024000000000001e+02
+"35","67520","Panoche Elementary                                                         ","ELEMENTARY     ",4.1500000000000004e+00
+"35","67538","San Benito High                                                            ","HIGH           ",2.9082600000000002e+03
+"35","67553","Southside Elementary                                                       ","ELEMENTARY     ",1.9315000000000001e+02
+"35","67561","Tres Pinos Union Elementary                                                ","ELEMENTARY     ",1.0391000000000000e+02
+"35","67579","Willow Grove Union Elementary                                              ","ELEMENTARY     ",1.2500000000000000e+01
+"35","75259","Aromas - San Juan Unified                                                  ","UNIFIED        ",9.9185000000000002e+02
+"36","10363","San Bernardino County Office of Education                                  ","CO OFFICE      ",0.0000000000000000e+00
+"36","40048","Baldy View ROP JPA                                                         ","JPA            ",0.0000000000000000e+00
+"36","40055","Colton-Redlands-Yucaipa ROP JPA                                            ","JPA            ",0.0000000000000000e+00
+"36","67587","Adelanto Elementary                                                        ","ELEMENTARY     ",7.7059200000000001e+03
+"36","67595","Alta Loma Elementary                                                       ","ELEMENTARY     ",5.8231999999999998e+03
+"36","67611","Barstow Unified                                                            ","UNIFIED        ",5.8586400000000003e+03
+"36","67637","Bear Valley Unified                                                        ","UNIFIED        ",2.2822800000000002e+03
+"36","67645","Central Elementary                                                         ","ELEMENTARY     ",4.3128500000000004e+03
+"36","67652","Chaffey Joint Union High                                                   ","HIGH           ",2.2608790000000001e+04
+"36","67678","Chino Valley Unified                                                       ","UNIFIED        ",2.6516360000000001e+04
+"36","67686","Colton Joint Unified                                                       ","UNIFIED        ",2.0829130000000001e+04
+"36","67694","Cucamonga Elementary                                                       ","ELEMENTARY     ",2.3014400000000001e+03
+"36","67702","Etiwanda Elementary                                                        ","ELEMENTARY     ",1.3638320000000000e+04
+"36","67710","Fontana Unified                                                            ","UNIFIED        ",3.4877720000000001e+04
+"36","67736","Helendale Elementary                                                       ","ELEMENTARY     ",6.0157000000000005e+02
+"36","67777","Morongo Unified                                                            ","UNIFIED        ",7.9413500000000004e+03
+"36","67785","Mountain View Elementary                                                   ","ELEMENTARY     ",2.4304499999999998e+03
+"36","67793","Mt. Baldy Joint Elementary                                                 ","ELEMENTARY     ",9.1010000000000005e+01
+"36","67801","Needles Unified                                                            ","UNIFIED        ",9.1744000000000005e+02
+"36","67819","Ontario-Montclair Elementary                                               ","ELEMENTARY     ",1.9836650000000001e+04
+"36","67827","Oro Grande Elementary                                                      ","ELEMENTARY     ",9.0090000000000003e+01
+"36","67843","Redlands Unified                                                           ","UNIFIED        ",1.9876220000000001e+04
+"36","67850","Rialto Unified                                                             ","UNIFIED        ",2.3921220000000001e+04
+"36","67868","Rim of The World Unified                                                   ","UNIFIED        ",3.0154600000000000e+03
+"36","67876","San Bernardino City Unified                                                ","UNIFIED        ",4.5957019999999997e+04
+"36","67892","Trona Joint Unified                                                        ","UNIFIED        ",2.6477999999999997e+02
+"36","67918","Victor Elementary                                                          ","ELEMENTARY     ",1.1611559999999999e+04
+"36","67934","Victor Valley Union High                                                   ","HIGH           ",9.7733600000000006e+03
+"36","67959","Yucaipa-Calimesa Joint Unified                                             ","UNIFIED        ",7.8555000000000000e+03
+"36","73858","Baker Valley Unified                                                       ","UNIFIED        ",1.2959999999999999e+02
+"36","73890","Silver Valley Unified                                                      ","UNIFIED        ",2.0338599999999999e+03
+"36","73957","Snowline Joint Unified                                                     ","UNIFIED        ",6.9856700000000001e+03
+"36","75044","Hesperia Unified                                                           ","UNIFIED        ",2.0624509999999998e+04
+"36","75051","Lucerne Valley Unified                                                     ","UNIFIED        ",6.9563000000000000e+02
+"36","75069","Upland Unified                                                             ","UNIFIED        ",1.0195740000000000e+04
+"36","75077","Apple Valley Unified                                                       ","UNIFIED        ",1.2378059999999999e+04
+"37","10371","San Diego County Office of Education                                       ","CO OFFICE      ",0.0000000000000000e+00
+"37","67967","Alpine Union Elementary                                                    ","ELEMENTARY     ",1.5515400000000000e+03
+"37","67983","Borrego Springs Unified                                                    ","UNIFIED        ",3.7068000000000001e+02
+"37","67991","Cajon Valley Union Elementary                                              ","ELEMENTARY     ",1.5895920000000000e+04
+"37","68007","Cardiff Elementary                                                         ","ELEMENTARY     ",6.6609000000000003e+02
+"37","68023","Chula Vista Elementary                                                     ","ELEMENTARY     ",2.2365970000000001e+04
+"37","68031","Coronado Unified                                                           ","UNIFIED        ",2.9415200000000000e+03
+"37","68049","Dehesa Elementary                                                          ","ELEMENTARY     ",1.3077000000000001e+02
+"37","68056","Del Mar Union Elementary                                                   ","ELEMENTARY     ",4.1452500000000000e+03
+"37","68080","Encinitas Union Elementary                                                 ","ELEMENTARY     ",5.1142600000000002e+03
+"37","68098","Escondido Union Elementary                                                 ","ELEMENTARY     ",1.4578889999999999e+04
+"37","68106","Escondido Union High                                                       ","HIGH           ",6.8951700000000001e+03
+"37","68114","Fallbrook Union Elementary                                                 ","ELEMENTARY     ",4.7294399999999996e+03
+"37","68122","Fallbrook Union High                                                       ","HIGH           ",2.0007600000000000e+03
+"37","68130","Grossmont Union High                                                       ","HIGH           ",1.5397780000000001e+04
+"37","68155","Jamul-Dulzura Union Elementary                                             ","ELEMENTARY     ",5.5063000000000000e+02
+"37","68163","Julian Union Elementary                                                    ","ELEMENTARY     ",2.6149000000000001e+02
+"37","68171","Julian Union High                                                          ","HIGH           ",9.9769999999999996e+01
+"37","68189","Lakeside Union Elementary                                                  ","ELEMENTARY     ",4.8616300000000001e+03
+"37","68197","La Mesa-Spring Valley                                                      ","ELEMENTARY     ",1.1457760000000000e+04
+"37","68205","Lemon Grove Elementary                                                     ","ELEMENTARY     ",3.3756500000000001e+03
+"37","68213","Mountain Empire Unified                                                    ","UNIFIED        ",1.6138199999999999e+03
+"37","68221","National Elementary                                                        ","ELEMENTARY     ",4.9804300000000003e+03
+"37","68296","Poway Unified                                                              ","UNIFIED        ",3.5164220000000001e+04
+"37","68304","Ramona City Unified                                                        ","UNIFIED        ",5.1597900000000000e+03
+"37","68312","Rancho Santa Fe Elementary                                                 ","ELEMENTARY     ",5.7175999999999999e+02
+"37","68338","San Diego Unified                                                          ","UNIFIED        ",9.7649779999999999e+04
+"37","68346","San Dieguito Union High                                                    ","HIGH           ",1.2557030000000001e+04
+"37","68353","San Pasqual Union Elementary                                               ","ELEMENTARY     ",5.6964999999999998e+02
+"37","68361","Santee Elementary                                                          ","ELEMENTARY     ",6.6016800000000003e+03
+"37","68379","San Ysidro Elementary                                                      ","ELEMENTARY     ",4.3559300000000003e+03
+"37","68387","Solana Beach Elementary                                                    ","ELEMENTARY     ",2.7994099999999999e+03
+"37","68395","South Bay Union Elementary                                                 ","ELEMENTARY     ",4.9679600000000000e+03
+"37","68403","Spencer Valley Elementary                                                  ","ELEMENTARY     ",3.9299999999999997e+01
+"37","68411","Sweetwater Union High                                                      ","HIGH           ",3.6824639999999999e+04
+"37","68437","Vallecitos Elementary                                                      ","ELEMENTARY     ",1.9891000000000000e+02
+"37","68452","Vista Unified                                                              ","UNIFIED        ",1.9704189999999999e+04
+"37","73551","Carlsbad Unified                                                           ","UNIFIED        ",1.0913850000000000e+04
+"37","73569","Oceanside Unified                                                          ","UNIFIED        ",1.6593230000000000e+04
+"37","73791","San Marcos Unified                                                         ","UNIFIED        ",2.0100820000000000e+04
+"37","75416","Warner Unified                                                             ","UNIFIED        ",1.8097000000000000e+02
+"37","75614","Valley Center-Pauma Unified                                                ","UNIFIED        ",3.7747199999999998e+03
+"37","76851","Bonsall Unified                                                            ","UNIFIED        ",2.6167600000000002e+03
+"37","77156","SBE - Vista Springs Charter                                                ","UNIFIED        ",0.0000000000000000e+00
+"38","10389","San Francisco County Office of Education                                   ","CO OFFICE      ",0.0000000000000000e+00
+"38","68478","San Francisco Unified                                                      ","UNIFIED        ",4.9912870000000003e+04
+"39","10397","San Joaquin County Office of Education                                     ","CO OFFICE      ",0.0000000000000000e+00
+"39","40386","San Joaquin Data Processing JPA                                            ","JPA            ",0.0000000000000000e+00
+"39","68486","Banta Elementary                                                           ","ELEMENTARY     ",3.1422000000000003e+02
+"39","68502","Escalon Unified                                                            ","UNIFIED        ",2.5701599999999999e+03
+"39","68544","Jefferson Elementary                                                       ","ELEMENTARY     ",2.2656199999999999e+03
+"39","68569","Lincoln Unified                                                            ","UNIFIED        ",8.4493400000000001e+03
+"39","68577","Linden Unified                                                             ","UNIFIED        ",2.2109299999999998e+03
+"39","68585","Lodi Unified                                                               ","UNIFIED        ",2.7091330000000002e+04
+"39","68593","Manteca Unified                                                            ","UNIFIED        ",2.2301869999999999e+04
+"39","68619","New Hope Elementary                                                        ","ELEMENTARY     ",1.8828000000000000e+02
+"39","68627","New Jerusalem Elementary                                                   ","ELEMENTARY     ",2.0670000000000002e+01
+"39","68635","Oak View Union Elementary                                                  ","ELEMENTARY     ",3.6526999999999998e+02
+"39","68650","Ripon Unified                                                              ","UNIFIED        ",3.1653099999999999e+03
+"39","68676","Stockton Unified                                                           ","UNIFIED        ",3.2964889999999999e+04
+"39","75499","Tracy Joint Unified                                                        ","UNIFIED        ",1.3971600000000000e+04
+"39","76760","Lammersville Joint Unified                                                 ","UNIFIED        ",5.1982299999999996e+03
+"40","10405","San Luis Obispo County Office of Education                                 ","CO OFFICE      ",0.0000000000000000e+00
+"40","40774","Central California School Finance Authority JPA                            ","JPA            ",0.0000000000000000e+00
+"40","68700","Atascadero Unified                                                         ","UNIFIED        ",4.5033699999999999e+03
+"40","68726","Cayucos Elementary                                                         ","ELEMENTARY     ",1.7012000000000000e+02
+"40","68759","Lucia Mar Unified                                                          ","UNIFIED        ",9.8479300000000003e+03
+"40","68791","Pleasant Valley Joint Union Elementary                                     ","ELEMENTARY     ",5.0490000000000002e+01
+"40","68809","San Luis Coastal Unified                                                   ","UNIFIED        ",7.2351000000000004e+03
+"40","68825","San Miguel Joint Union Elementary                                          ","ELEMENTARY     ",5.9685000000000002e+02
+"40","68833","Shandon Joint Unified                                                      ","UNIFIED        ",2.8355000000000001e+02
+"40","68841","Templeton Unified                                                          ","UNIFIED        ",2.3113600000000001e+03
+"40","75457","Paso Robles Joint Unified                                                  ","UNIFIED        ",6.4336599999999999e+03
+"40","75465","Coast Unified                                                              ","UNIFIED        ",5.3536000000000001e+02
+"41","10413","San Mateo County Office of Education                                       ","CO OFFICE      ",0.0000000000000000e+00
+"41","68858","Bayshore Elementary                                                        ","ELEMENTARY     ",3.6238999999999999e+02
+"41","68866","Belmont-Redwood Shores Elementary                                          ","ELEMENTARY     ",4.1715000000000000e+03
+"41","68874","Brisbane Elementary                                                        ","ELEMENTARY     ",4.4587000000000000e+02
+"41","68882","Burlingame Elementary                                                      ","ELEMENTARY     ",3.3935000000000000e+03
+"41","68890","Cabrillo Unified                                                           ","UNIFIED        ",3.0129899999999998e+03
+"41","68908","Hillsborough City Elementary                                               ","ELEMENTARY     ",1.3077100000000000e+03
+"41","68916","Jefferson Elementary                                                       ","ELEMENTARY     ",5.7332600000000002e+03
+"41","68924","Jefferson Union High                                                       ","HIGH           ",4.0687100000000000e+03
+"41","68932","Pacifica Elementary                                                        ","ELEMENTARY     ",2.9861399999999999e+03
+"41","68940","La Honda-Pescadero Unified                                                 ","UNIFIED        ",3.0120999999999998e+02
+"41","68957","Las Lomitas Elementary                                                     ","ELEMENTARY     ",1.2030100000000000e+03
+"41","68965","Menlo Park City Elementary                                                 ","ELEMENTARY     ",2.8475300000000002e+03
+"41","68973","Millbrae Elementary                                                        ","ELEMENTARY     ",2.2981399999999999e+03
+"41","68981","Portola Valley Elementary                                                  ","ELEMENTARY     ",5.5636000000000001e+02
+"41","68999","Ravenswood City Elementary                                                 ","ELEMENTARY     ",2.2425000000000000e+03
+"41","69005","Redwood City Elementary                                                    ","ELEMENTARY     ",7.1911199999999999e+03
+"41","69013","San Bruno Park Elementary                                                  ","ELEMENTARY     ",2.3603299999999999e+03
+"41","69021","San Carlos Elementary                                                      ","ELEMENTARY     ",7.7810000000000002e+02
+"41","69039","San Mateo-Foster City Elementary                                           ","ELEMENTARY     ",1.1279240000000000e+04
+"41","69047","San Mateo Union High                                                       ","HIGH           ",8.4747999999999993e+03
+"41","69062","Sequoia Union High                                                         ","HIGH           ",8.3367099999999991e+03
+"41","69070","South San Francisco Unified                                                ","UNIFIED        ",7.9828400000000001e+03
+"41","69088","Woodside Elementary                                                        ","ELEMENTARY     ",3.9137000000000000e+02
+"42","10421","Santa Barbara County Office of Education                                   ","CO OFFICE      ",0.0000000000000000e+00
+"42","40378","Santa Barbara County SELPA JPA                                             ","JPA            ",0.0000000000000000e+00
+"42","69104","Ballard Elementary                                                         ","ELEMENTARY     ",1.2809999999999999e+02
+"42","69112","Blochman Union Elementary                                                  ","ELEMENTARY     ",1.9931999999999999e+02
+"42","69120","Santa Maria-Bonita Elementary                                              ","ELEMENTARY     ",1.6369959999999999e+04
+"42","69138","Buellton Union Elementary                                                  ","ELEMENTARY     ",6.2157000000000005e+02
+"42","69146","Carpinteria Unified                                                        ","UNIFIED        ",2.0726399999999999e+03
+"42","69161","Cold Spring Elementary                                                     ","ELEMENTARY     ",1.6733000000000001e+02
+"42","69179","College Elementary                                                         ","ELEMENTARY     ",1.7803999999999999e+02
+"42","69195","Goleta Union Elementary                                                    ","ELEMENTARY     ",3.4353000000000002e+03
+"42","69203","Guadalupe Union Elementary                                                 ","ELEMENTARY     ",1.2292700000000000e+03
+"42","69211","Hope Elementary                                                            ","ELEMENTARY     ",9.2034000000000003e+02
+"42","69229","Lompoc Unified                                                             ","UNIFIED        ",9.0235699999999997e+03
+"42","69245","Los Olivos Elementary                                                      ","ELEMENTARY     ",1.4797000000000000e+02
+"42","69252","Montecito Union Elementary                                                 ","ELEMENTARY     ",3.7895999999999998e+02
+"42","69260","Orcutt Union Elementary                                                    ","ELEMENTARY     ",4.1867799999999997e+03
+"42","69310","Santa Maria Joint Union High                                               ","HIGH           ",7.6518400000000001e+03
+"42","69328","Santa Ynez Valley Union High                                               ","HIGH           ",8.7660000000000002e+02
+"42","69336","Solvang Elementary                                                         ","ELEMENTARY     ",5.7434000000000003e+02
+"42","69344","Vista Del Mar Union Elementary                                             ","ELEMENTARY     ",4.6969999999999999e+01
+"42","75010","Cuyama Joint Unified                                                       ","UNIFIED        ",1.8665000000000001e+02
+"42","76786","Santa Barbara Unified                                                      ","UNIFIED        ",1.2603350000000000e+04
+"43","10439","Santa Clara County Office of Education                                     ","CO OFFICE      ",0.0000000000000000e+00
+"43","40360","Metropolitan Education                                                     ","JPA            ",0.0000000000000000e+00
+"43","40899","West Valley Schools Transportation Agency JPA                              ","JPA            ",0.0000000000000000e+00
+"43","40949","East Valley School Transportation JPA                                      ","JPA            ",0.0000000000000000e+00
+"43","69369","Alum Rock Union Elementary                                                 ","ELEMENTARY     ",5.4299999999999997e+00
+"43","69377","Berryessa Union Elementary                                                 ","ELEMENTARY     ",6.7585200000000004e+03
+"43","69385","Cambrian Elementary                                                        ","ELEMENTARY     ",9.9170000000000005e+02
+"43","69393","Campbell Union Elementary                                                  ","ELEMENTARY     ",4.6850999999999999e+02
+"43","69401","Campbell Union High                                                        ","HIGH           ",7.7854899999999998e+03
+"43","69419","Cupertino Union Elementary                                                 ","ELEMENTARY     ",1.6946860000000001e+04
+"43","69427","East Side Union High                                                       ","HIGH           ",2.1330099999999999e+04
+"43","69435","Evergreen Elementary                                                       ","ELEMENTARY     ",1.0503580000000000e+04
+"43","69450","Franklin-McKinley Elementary                                               ","ELEMENTARY     ",6.6581700000000001e+03
+"43","69468","Fremont Union High                                                         ","HIGH           ",1.0591230000000000e+04
+"43","69484","Gilroy Unified                                                             ","UNIFIED        ",1.0481270000000000e+04
+"43","69492","Lakeside Joint Elementary                                                  ","ELEMENTARY     ",6.5900000000000006e+01
+"43","69500","Loma Prieta Joint Union Elementary                                         ","ELEMENTARY     ",4.7617000000000002e+02
+"43","69518","Los Altos Elementary                                                       ","ELEMENTARY     ",4.1167700000000004e+03
+"43","69526","Los Gatos Union Elementary                                                 ","ELEMENTARY     ",2.9335900000000001e+03
+"43","69534","Los Gatos-Saratoga Joint Union High                                        ","HIGH           ",3.3808899999999999e+03
+"43","69542","Luther Burbank Elementary                                                  ","ELEMENTARY     ",4.9848000000000002e+02
+"43","69575","Moreland Elementary                                                        ","ELEMENTARY     ",4.5410000000000000e+03
+"43","69583","Morgan Hill Unified                                                        ","UNIFIED        ",7.8457600000000002e+03
+"43","69591","Mountain View Whisman Elementary                                           ","ELEMENTARY     ",4.9461499999999996e+03
+"43","69609","Mountain View-Los Altos Union High                                         ","HIGH           ",4.1942700000000004e+03
+"43","69617","Mount Pleasant Elementary                                                  ","ELEMENTARY     ",1.5502700000000000e+03
+"43","69625","Oak Grove Elementary                                                       ","ELEMENTARY     ",9.5023999999999996e+03
+"43","69633","Orchard Elementary                                                         ","ELEMENTARY     ",8.5626999999999998e+02
+"43","69641","Palo Alto Unified                                                          ","UNIFIED        ",1.1539110000000001e+04
+"43","69666","San Jose Unified                                                           ","UNIFIED        ",2.8193810000000001e+04
+"43","69674","Santa Clara Unified                                                        ","UNIFIED        ",1.4598030000000001e+04
+"43","69682","Saratoga Union Elementary                                                  ","ELEMENTARY     ",1.7241800000000001e+03
+"43","69690","Sunnyvale Elementary                                                       ","ELEMENTARY     ",6.3896199999999999e+03
+"43","69708","Union Elementary                                                           ","ELEMENTARY     ",5.7365000000000000e+03
+"43","73387","Milpitas Unified                                                           ","UNIFIED        ",9.9512600000000002e+03
+"43","75689","Silicon Valley Joint Powers Transportation Agency                          ","JPA            ",0.0000000000000000e+00
+"43","76612","North County Regional Occupational Program JPA                             ","JPA            ",0.0000000000000000e+00
+"44","10447","Santa Cruz County Office of Education                                      ","CO OFFICE      ",0.0000000000000000e+00
+"44","40261","Santa Cruz City Elementary/High                                            ","Comm Admin Dist",6.0801599999999999e+03
+"44","40832","North Santa Cruz County SELPA                                              ","JPA            ",0.0000000000000000e+00
+"44","69732","Bonny Doon Union Elementary                                                ","ELEMENTARY     ",1.5208000000000001e+02
+"44","69757","Happy Valley Elementary                                                    ","ELEMENTARY     ",1.0553000000000000e+02
+"44","69765","Live Oak Elementary                                                        ","ELEMENTARY     ",1.6132400000000000e+03
+"44","69773","Mountain Elementary                                                        ","ELEMENTARY     ",1.3761000000000001e+02
+"44","69781","Pacific Elementary                                                         ","ELEMENTARY     ",1.0956000000000000e+02
+"44","69799","Pajaro Valley Unified                                                      ","UNIFIED        ",1.6968450000000001e+04
+"44","69807","San Lorenzo Valley Unified                                                 ","UNIFIED        ",2.1910400000000000e+03
+"44","69823","Santa Cruz City High                                                       ","HIGH           ",0.0000000000000000e+00
+"44","69849","Soquel Union Elementary                                                    ","ELEMENTARY     ",1.7954700000000000e+03
+"44","75432","Scotts Valley Unified                                                      ","UNIFIED        ",2.3284299999999998e+03
+"45","10454","Shasta County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"45","40329","Shasta-Trinity ROP JPA                                                     ","JPA            ",0.0000000000000000e+00
+"45","69856","Anderson Union High                                                        ","HIGH           ",1.4274300000000001e+03
+"45","69872","Bella Vista Elementary                                                     ","ELEMENTARY     ",3.4336000000000001e+02
+"45","69880","Black Butte Union Elementary                                               ","ELEMENTARY     ",2.0019999999999999e+02
+"45","69914","Cascade Union Elementary                                                   ","ELEMENTARY     ",1.0095700000000001e+03
+"45","69922","Castle Rock Union Elementary                                               ","ELEMENTARY     ",6.3560000000000002e+01
+"45","69948","Columbia Elementary                                                        ","ELEMENTARY     ",7.2677999999999997e+02
+"45","69955","Cottonwood Union Elementary                                                ","ELEMENTARY     ",8.9553999999999996e+02
+"45","69971","Enterprise Elementary                                                      ","ELEMENTARY     ",3.3467399999999998e+03
+"45","69989","Fall River Joint Unified                                                   ","UNIFIED        ",1.1072600000000000e+03
+"45","69997","French Gulch-Whiskeytown Elementary                                        ","ELEMENTARY     ",2.2160000000000000e+01
+"45","70003","Grant Elementary                                                           ","ELEMENTARY     ",6.1672000000000003e+02
+"45","70011","Happy Valley Union Elementary                                              ","ELEMENTARY     ",4.7849000000000001e+02
+"45","70029","Igo, Ono, Platina Union Elementary                                         ","ELEMENTARY     ",4.0630000000000003e+01
+"45","70037","Indian Springs Elementary                                                  ","ELEMENTARY     ",1.3779999999999999e+01
+"45","70045","Junction Elementary                                                        ","ELEMENTARY     ",2.9481000000000000e+02
+"45","70052","Millville Elementary                                                       ","ELEMENTARY     ",2.5525999999999999e+02
+"45","70078","North Cow Creek Elementary                                                 ","ELEMENTARY     ",2.4846000000000001e+02
+"45","70086","Oak Run Elementary                                                         ","ELEMENTARY     ",6.0380000000000003e+01
+"45","70094","Pacheco Union Elementary                                                   ","ELEMENTARY     ",6.2885000000000002e+02
+"45","70110","Redding Elementary                                                         ","ELEMENTARY     ",2.7839600000000000e+03
+"45","70128","Shasta Union Elementary                                                    ","ELEMENTARY     ",1.1325000000000000e+02
+"45","70136","Shasta Union High                                                          ","HIGH           ",4.0977200000000003e+03
+"45","70169","Whitmore Union Elementary                                                  ","ELEMENTARY     ",3.8810000000000002e+01
+"45","73700","Mountain Union Elementary                                                  ","ELEMENTARY     ",6.9950000000000003e+01
+"45","75267","Gateway Unified                                                            ","UNIFIED        ",2.1168499999999999e+03
+"46","10462","Sierra County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"46","70177","Sierra-Plumas Joint Unified                                                ","UNIFIED        ",3.7756000000000000e+02
+"47","10470","Siskiyou County Office of Education                                        ","CO OFFICE      ",0.0000000000000000e+00
+"47","70185","Big Springs Union Elementary                                               ","ELEMENTARY     ",1.7021000000000001e+02
+"47","70193","Bogus Elementary                                                           ","ELEMENTARY     ",1.7020000000000000e+01
+"47","70201","Butteville Union Elementary                                                ","ELEMENTARY     ",1.8690000000000001e+02
+"47","70227","Delphic Elementary                                                         ","ELEMENTARY     ",5.8340000000000003e+01
+"47","70243","Dunsmuir Elementary                                                        ","ELEMENTARY     ",8.5420000000000002e+01
+"47","70250","Dunsmuir Joint Union High                                                  ","HIGH           ",5.4820000000000000e+01
+"47","70292","Forks of Salmon Elementary                                                 ","ELEMENTARY     ",8.2699999999999996e+00
+"47","70318","Gazelle Union Elementary                                                   ","ELEMENTARY     ",3.1930000000000000e+01
+"47","70326","Grenada Elementary                                                         ","ELEMENTARY     ",2.1987000000000000e+02
+"47","70334","Happy Camp Union Elementary                                                ","ELEMENTARY     ",1.0334999999999999e+02
+"47","70359","Hornbrook Elementary                                                       ","ELEMENTARY     ",4.8229999999999997e+01
+"47","70367","Junction Elementary                                                        ","ELEMENTARY     ",2.6910000000000000e+01
+"47","70375","Klamath River Union Elementary                                             ","ELEMENTARY     ",1.0190000000000000e+01
+"47","70383","Little Shasta Elementary                                                   ","ELEMENTARY     ",2.0149999999999999e+01
+"47","70409","McCloud Union Elementary                                                   ","ELEMENTARY     ",5.5159999999999997e+01
+"47","70417","Montague Elementary                                                        ","ELEMENTARY     ",1.6340000000000001e+02
+"47","70425","Mt. Shasta Union Elementary                                                ","ELEMENTARY     ",5.2767999999999995e+02
+"47","70458","Seiad Elementary                                                           ","ELEMENTARY     ",1.1020000000000000e+01
+"47","70466","Siskiyou Union High                                                        ","HIGH           ",5.1505999999999995e+02
+"47","70482","Weed Union Elementary                                                      ","ELEMENTARY     ",2.4369999999999999e+02
+"47","70490","Willow Creek Elementary                                                    ","ELEMENTARY     ",2.7230000000000000e+01
+"47","70508","Yreka Union Elementary                                                     ","ELEMENTARY     ",9.3237000000000000e+02
+"47","70516","Yreka Union High                                                           ","HIGH           ",5.8517999999999995e+02
+"47","73684","Butte Valley Unified                                                       ","UNIFIED        ",2.7306000000000000e+02
+"47","76455","Scott Valley Unified                                                       ","UNIFIED        ",6.3315999999999997e+02
+"48","10488","Solano County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"48","70524","Benicia Unified                                                            ","UNIFIED        ",4.4544600000000000e+03
+"48","70532","Dixon Unified                                                              ","UNIFIED        ",3.0313499999999999e+03
+"48","70540","Fairfield-Suisun Unified                                                   ","UNIFIED        ",2.0390669999999998e+04
+"48","70565","Travis Unified                                                             ","UNIFIED        ",5.2894600000000000e+03
+"48","70573","Vacaville Unified                                                          ","UNIFIED        ",1.0883270000000000e+04
+"48","70581","Vallejo City Unified                                                       ","UNIFIED        ",1.0878600000000000e+04
+"49","10496","Sonoma County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"49","40246","Petaluma City Elementary/Joint Union High                                  ","Comm Admin Dist",6.1928299999999999e+03
+"49","40253","Santa Rosa City Schools                                                    ","Comm Admin Dist",1.3597520000000000e+04
+"49","40311","West County Transportation JPA                                             ","JPA            ",0.0000000000000000e+00
+"49","70599","Alexander Valley Union Elementary                                          ","ELEMENTARY     ",1.0544000000000000e+02
+"49","70607","West Sonoma County Union High                                              ","HIGH           ",1.7062000000000000e+03
+"49","70615","Bellevue Union Elementary                                                  ","ELEMENTARY     ",1.5331900000000001e+03
+"49","70623","Bennett Valley Union Elementary                                            ","ELEMENTARY     ",9.6370000000000005e+02
+"49","70649","Cinnabar Elementary                                                        ","ELEMENTARY     ",1.7340000000000000e+01
+"49","70656","Cloverdale Unified                                                         ","UNIFIED        ",1.3085400000000000e+03
+"49","70672","Dunham Elementary                                                          ","ELEMENTARY     ",1.1390000000000001e+01
+"49","70680","Forestville Union Elementary                                               ","ELEMENTARY     ",5.4359999999999999e+01
+"49","70698","Fort Ross Elementary                                                       ","ELEMENTARY     ",1.6320000000000000e+01
+"49","70706","Geyserville Unified                                                        ","UNIFIED        ",2.1625999999999999e+02
+"49","70714","Gravenstein Union Elementary                                               ","ELEMENTARY     ",3.6960000000000001e+01
+"49","70722","Guerneville Elementary                                                     ","ELEMENTARY     ",2.2300000000000001e+01
+"49","70730","Harmony Union Elementary                                                   ","ELEMENTARY     ",5.5659999999999997e+01
+"49","70763","Horicon Elementary                                                         ","ELEMENTARY     ",6.0869999999999997e+01
+"49","70789","Kenwood Elementary                                                         ","ELEMENTARY     ",1.3008000000000001e+02
+"49","70797","Liberty Elementary                                                         ","ELEMENTARY     ",5.5159999999999997e+01
+"49","70805","Mark West Union Elementary                                                 ","ELEMENTARY     ",4.2310000000000002e+02
+"49","70813","Monte Rio Union Elementary                                                 ","ELEMENTARY     ",7.7829999999999998e+01
+"49","70821","Montgomery Elementary                                                      ","ELEMENTARY     ",2.9129999999999999e+01
+"49","70839","Oak Grove Union Elementary                                                 ","ELEMENTARY     ",7.8909999999999997e+01
+"49","70847","Old Adobe Union Elementary                                                 ","ELEMENTARY     ",3.1685000000000002e+02
+"49","70854","Petaluma City Elementary                                                   ","ELEMENTARY     ",0.0000000000000000e+00
+"49","70870","Piner-Olivet Union Elementary                                              ","ELEMENTARY     ",2.7244999999999999e+02
+"49","70888","Kashia Elementary                                                          ","ELEMENTARY     ",1.0470000000000001e+01
+"49","70896","Rincon Valley Union Elementary                                             ","ELEMENTARY     ",1.2343900000000001e+03
+"49","70904","Roseland Elementary                                                        ","ELEMENTARY     ",1.3548800000000001e+03
+"49","70912","Santa Rosa Elementary                                                      ","ELEMENTARY     ",0.0000000000000000e+00
+"49","70938","Sebastopol Union Elementary                                                ","ELEMENTARY     ",4.3825000000000000e+02
+"49","70953","Sonoma Valley Unified                                                      ","UNIFIED        ",3.6240200000000000e+03
+"49","70961","Twin Hills Union Elementary                                                ","ELEMENTARY     ",3.8797000000000003e+02
+"49","70979","Two Rock Union Elementary                                                  ","ELEMENTARY     ",1.4793000000000001e+02
+"49","70995","Waugh Elementary                                                           ","ELEMENTARY     ",8.2885000000000002e+02
+"49","71001","West Side Union Elementary                                                 ","ELEMENTARY     ",1.7216999999999999e+02
+"49","71019","Wilmar Union Elementary                                                    ","ELEMENTARY     ",2.3713999999999999e+02
+"49","71035","Wright Elementary                                                          ","ELEMENTARY     ",9.7673000000000002e+02
+"49","73882","Cotati-Rohnert Park Unified                                                ","UNIFIED        ",5.4518800000000001e+03
+"49","75358","Windsor Unified                                                            ","UNIFIED        ",3.7017800000000002e+03
+"49","75390","Healdsburg Unified                                                         ","UNIFIED        ",1.1004900000000000e+03
+"50","10504","Stanislaus County Office of Education                                      ","CO OFFICE      ",0.0000000000000000e+00
+"50","40717","Modesto City Schools                                                       ","Comm Admin Dist",2.8117880000000001e+04
+"50","40964","Central California Migrant Head Start JPA                                  ","JPA            ",0.0000000000000000e+00
+"50","71043","Ceres Unified                                                              ","UNIFIED        ",1.3122299999999999e+04
+"50","71050","Chatom Union Elementary                                                    ","ELEMENTARY     ",5.7371000000000004e+02
+"50","71068","Denair Unified                                                             ","UNIFIED        ",4.8092000000000002e+02
+"50","71076","Empire Union Elementary                                                    ","ELEMENTARY     ",2.8512399999999998e+03
+"50","71084","Gratton Elementary                                                         ","ELEMENTARY     ",1.0820000000000000e+01
+"50","71092","Hart-Ransom Union Elementary                                               ","ELEMENTARY     ",7.8635000000000002e+02
+"50","71100","Hickman Community Charter                                                  ","ELEMENTARY     ",0.0000000000000000e+00
+"50","71134","Keyes Union Elementary                                                     ","ELEMENTARY     ",7.4201999999999998e+02
+"50","71142","Knights Ferry Elementary                                                   ","ELEMENTARY     ",1.4725999999999999e+02
+"50","71209","Paradise Elementary                                                        ","ELEMENTARY     ",8.1530000000000001e+01
+"50","71217","Patterson Joint Unified                                                    ","UNIFIED        ",5.7283999999999996e+03
+"50","71233","Roberts Ferry Union Elementary                                             ","ELEMENTARY     ",1.1483000000000000e+02
+"50","71266","Salida Union Elementary                                                    ","ELEMENTARY     ",2.2496300000000001e+03
+"50","71274","Shiloh Elementary                                                          ","ELEMENTARY     ",3.1480000000000000e+01
+"50","71282","Stanislaus Union Elementary                                                ","ELEMENTARY     ",3.4871799999999998e+03
+"50","71290","Sylvan Union Elementary                                                    ","ELEMENTARY     ",7.9522100000000000e+03
+"50","71324","Valley Home Joint Elementary                                               ","ELEMENTARY     ",1.5797999999999999e+02
+"50","73601","Newman-Crows Landing Unified                                               ","UNIFIED        ",3.0773699999999999e+03
+"50","75549","Hughson Unified                                                            ","UNIFIED        ",1.9659600000000000e+03
+"50","75556","Riverbank Unified                                                          ","UNIFIED        ",2.2846599999999999e+03
+"50","75564","Oakdale Joint Unified                                                      ","UNIFIED        ",5.0402100000000000e+03
+"50","75572","Waterford Unified                                                          ","UNIFIED        ",1.7267400000000000e+03
+"50","75739","Turlock Unified                                                            ","UNIFIED        ",1.3332570000000000e+04
+"51","10512","Sutter County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"51","71357","Brittan Elementary                                                         ","ELEMENTARY     ",4.3508999999999997e+02
+"51","71365","Browns Elementary                                                          ","ELEMENTARY     ",1.3259000000000000e+02
+"51","71373","East Nicolaus Joint Union High                                             ","HIGH           ",2.8679000000000002e+02
+"51","71381","Franklin Elementary                                                        ","ELEMENTARY     ",4.6673000000000002e+02
+"51","71399","Live Oak Unified                                                           ","UNIFIED        ",1.7661300000000001e+03
+"51","71407","Marcum-Illinois Union Elementary                                           ","ELEMENTARY     ",1.6709000000000000e+02
+"51","71415","Meridian Elementary                                                        ","ELEMENTARY     ",4.4039999999999999e+01
+"51","71423","Nuestro Elementary                                                         ","ELEMENTARY     ",1.6328000000000000e+02
+"51","71431","Pleasant Grove Joint Union Elementary                                      ","ELEMENTARY     ",1.7112000000000000e+02
+"51","71449","Sutter Union High                                                          ","HIGH           ",7.2320000000000005e+02
+"51","71456","Winship-Robbins Elementary                                                 ","ELEMENTARY     ",1.1279000000000001e+02
+"51","71464","Yuba City Unified                                                          ","UNIFIED        ",1.1722500000000000e+04
+"52","10520","Tehama County Department of Education                                      ","CO OFFICE      ",0.0000000000000000e+00
+"52","71472","Antelope Elementary                                                        ","ELEMENTARY     ",7.3840999999999997e+02
+"52","71498","Corning Union Elementary                                                   ","ELEMENTARY     ",1.9706800000000001e+03
+"52","71506","Corning Union High                                                         ","HIGH           ",9.5449000000000001e+02
+"52","71514","Elkins Elementary                                                          ","ELEMENTARY     ",1.2220000000000001e+01
+"52","71522","Evergreen Union Elementary                                                 ","ELEMENTARY     ",1.0423699999999999e+03
+"52","71530","Flournoy Union Elementary                                                  ","ELEMENTARY     ",3.4530000000000001e+01
+"52","71548","Gerber Union Elementary                                                    ","ELEMENTARY     ",3.6293000000000001e+02
+"52","71555","Kirkwood Elementary                                                        ","ELEMENTARY     ",9.7109999999999999e+01
+"52","71563","Lassen View Union Elementary                                               ","ELEMENTARY     ",3.3113000000000000e+02
+"52","71571","Los Molinos Unified                                                        ","UNIFIED        ",5.3297000000000003e+02
+"52","71621","Red Bluff Union Elementary                                                 ","ELEMENTARY     ",1.9638800000000001e+03
+"52","71639","Red Bluff Joint Union High                                                 ","HIGH           ",1.5380999999999999e+03
+"52","71647","Reeds Creek Elementary                                                     ","ELEMENTARY     ",1.6725999999999999e+02
+"52","71654","Richfield Elementary                                                       ","ELEMENTARY     ",2.4922000000000000e+02
+"53","10538","Trinity County Office of Education                                         ","CO OFFICE      ",0.0000000000000000e+00
+"53","71662","Burnt Ranch Elementary                                                     ","ELEMENTARY     ",8.0109999999999999e+01
+"53","71670","Coffee Creek Elementary                                                    ","ELEMENTARY     ",8.0999999999999996e+00
+"53","71696","Douglas City Elementary                                                    ","ELEMENTARY     ",1.6903999999999999e+02
+"53","71738","Junction City Elementary                                                   ","ELEMENTARY     ",6.3000000000000000e+01
+"53","71746","Lewiston Elementary                                                        ","ELEMENTARY     ",5.8649999999999999e+01
+"53","71761","Trinity Center Elementary                                                  ","ELEMENTARY     ",1.3520000000000000e+01
+"53","73833","Southern Trinity Joint Unified                                             ","UNIFIED        ",8.4640000000000001e+01
+"53","75028","Mountain Valley Unified                                                    ","UNIFIED        ",2.4491000000000000e+02
+"53","76513","Trinity Alps Unified                                                       ","UNIFIED        ",6.8224000000000001e+02
+"54","10546","Tulare County Office of Education                                          ","CO OFFICE      ",0.0000000000000000e+00
+"54","71795","Allensworth Elementary                                                     ","ELEMENTARY     ",8.5170000000000002e+01
+"54","71803","Alpaugh Unified                                                            ","UNIFIED        ",3.0156999999999999e+02
+"54","71811","Alta Vista Elementary                                                      ","ELEMENTARY     ",5.4980999999999995e+02
+"54","71829","Buena Vista Elementary                                                     ","ELEMENTARY     ",2.0275999999999999e+02
+"54","71837","Burton Elementary                                                          ","ELEMENTARY     ",2.6513600000000001e+03
+"54","71852","Columbine Elementary                                                       ","ELEMENTARY     ",1.9699000000000001e+02
+"54","71860","Cutler-Orosi Joint Unified                                                 ","UNIFIED        ",3.9401199999999999e+03
+"54","71894","Ducor Union Elementary                                                     ","ELEMENTARY     ",1.5761000000000001e+02
+"54","71902","Earlimart Elementary                                                       ","ELEMENTARY     ",1.6273499999999999e+03
+"54","71944","Hope Elementary                                                            ","ELEMENTARY     ",2.2659000000000000e+02
+"54","71951","Hot Springs Elementary                                                     ","ELEMENTARY     ",1.8489999999999998e+01
+"54","71969","Kings River Union Elementary                                               ","ELEMENTARY     ",4.2318000000000001e+02
+"54","71985","Liberty Elementary                                                         ","ELEMENTARY     ",6.3742999999999995e+02
+"54","71993","Lindsay Unified                                                            ","UNIFIED        ",3.9014000000000001e+03
+"54","72009","Monson-Sultana Joint Union Elementary                                      ","ELEMENTARY     ",4.4176999999999998e+02
+"54","72017","Oak Valley Union Elementary                                                ","ELEMENTARY     ",5.3612000000000000e+02
+"54","72025","Outside Creek Elementary                                                   ","ELEMENTARY     ",1.0005000000000000e+02
+"54","72033","Palo Verde Union Elementary                                                ","ELEMENTARY     ",5.7307000000000005e+02
+"54","72041","Pixley Union Elementary                                                    ","ELEMENTARY     ",9.7002999999999997e+02
+"54","72058","Pleasant View Elementary                                                   ","ELEMENTARY     ",4.5920999999999998e+02
+"54","72082","Richgrove Elementary                                                       ","ELEMENTARY     ",5.8047000000000003e+02
+"54","72090","Rockford Elementary                                                        ","ELEMENTARY     ",3.3027999999999997e+02
+"54","72108","Saucelito Elementary                                                       ","ELEMENTARY     ",7.8329999999999998e+01
+"54","72116","Sequoia Union Elementary                                                   ","ELEMENTARY     ",3.1510000000000002e+01
+"54","72132","Springville Union Elementary                                               ","ELEMENTARY     ",3.0264999999999998e+02
+"54","72140","Stone Corral Elementary                                                    ","ELEMENTARY     ",1.2984000000000000e+02
+"54","72157","Strathmore Union Elementary                                                ","ELEMENTARY     ",7.4323000000000002e+02
+"54","72173","Sundale Union Elementary                                                   ","ELEMENTARY     ",8.0122000000000003e+02
+"54","72181","Sunnyside Union Elementary                                                 ","ELEMENTARY     ",3.5408999999999997e+02
+"54","72199","Terra Bella Union Elementary                                               ","ELEMENTARY     ",8.5726999999999998e+02
+"54","72207","Three Rivers Union Elementary                                              ","ELEMENTARY     ",1.2593000000000001e+02
+"54","72215","Tipton Elementary                                                          ","ELEMENTARY     ",5.2532000000000005e+02
+"54","72223","Traver Joint Elementary                                                    ","ELEMENTARY     ",2.2244000000000000e+02
+"54","72231","Tulare City Elementary                                                     ","ELEMENTARY     ",9.2643099999999995e+03
+"54","72249","Tulare Joint Union High                                                    ","HIGH           ",5.1607299999999996e+03
+"54","72256","Visalia Unified                                                            ","UNIFIED        ",2.6402759999999998e+04
+"54","72264","Waukena Joint Union Elementary                                             ","ELEMENTARY     ",2.0022999999999999e+02
+"54","72298","Woodville Union Elementary                                                 ","ELEMENTARY     ",4.0989999999999998e+02
+"54","75325","Farmersville Unified                                                       ","UNIFIED        ",2.4106199999999999e+03
+"54","75523","Porterville Unified                                                        ","UNIFIED        ",1.2599959999999999e+04
+"54","75531","Dinuba Unified                                                             ","UNIFIED        ",6.3022799999999997e+03
+"54","76794","Woodlake Unified                                                           ","UNIFIED        ",2.0157500000000000e+03
+"54","76836","Exeter Unified                                                             ","UNIFIED        ",2.6171399999999999e+03
+"55","10553","Tuolumne County Superintendent of Schools                                  ","CO OFFICE      ",0.0000000000000000e+00
+"55","72306","Belleview Elementary                                                       ","ELEMENTARY     ",1.4666000000000000e+02
+"55","72348","Columbia Union Elementary                                                  ","ELEMENTARY     ",4.6110000000000002e+02
+"55","72355","Curtis Creek Elementary                                                    ","ELEMENTARY     ",4.4956000000000000e+02
+"55","72363","Jamestown Elementary                                                       ","ELEMENTARY     ",3.6094999999999999e+02
+"55","72371","Sonora Elementary                                                          ","ELEMENTARY     ",7.1513999999999999e+02
+"55","72389","Sonora Union High                                                          ","HIGH           ",9.5674000000000001e+02
+"55","72397","Soulsbyville Elementary                                                    ","ELEMENTARY     ",5.1645000000000005e+02
+"55","72405","Summerville Elementary                                                     ","ELEMENTARY     ",3.8119999999999999e+02
+"55","72413","Summerville Union High                                                     ","HIGH           ",3.5020999999999998e+02
+"55","72421","Twain Harte Elementary                                                     ","ELEMENTARY     ",2.4678000000000000e+02
+"55","75184","Big Oak Flat-Groveland Unified                                             ","UNIFIED        ",2.7593000000000001e+02
+"56","10561","Ventura County Office of Education                                         ","CO OFFICE      ",0.0000000000000000e+00
+"56","40295","Ventura County Schools Business Services JPA                               ","JPA            ",0.0000000000000000e+00
+"56","72447","Briggs Elementary                                                          ","ELEMENTARY     ",5.1058999999999997e+02
+"56","72454","Fillmore Unified                                                           ","UNIFIED        ",3.6029000000000001e+03
+"56","72462","Hueneme Elementary                                                         ","ELEMENTARY     ",7.9283999999999996e+03
+"56","72470","Mesa Union Elementary                                                      ","ELEMENTARY     ",5.9038000000000000e+02
+"56","72504","Mupu Elementary                                                            ","ELEMENTARY     ",1.5715000000000001e+02
+"56","72512","Ocean View Elementary                                                      ","ELEMENTARY     ",2.4419299999999998e+03
+"56","72520","Ojai Unified                                                               ","UNIFIED        ",2.2699800000000000e+03
+"56","72538","Oxnard Elementary                                                          ","ELEMENTARY     ",1.5613270000000000e+04
+"56","72546","Oxnard Union High                                                          ","HIGH           ",1.5419260000000000e+04
+"56","72553","Pleasant Valley                                                            ","ELEMENTARY     ",6.0329799999999996e+03
+"56","72561","Rio Elementary                                                             ","ELEMENTARY     ",5.0228900000000003e+03
+"56","72579","Santa Clara Elementary                                                     ","ELEMENTARY     ",5.7689999999999998e+01
+"56","72603","Simi Valley Unified                                                        ","UNIFIED        ",1.5734709999999999e+04
+"56","72611","Somis Union Elementary                                                     ","ELEMENTARY     ",2.3131000000000000e+02
+"56","72652","Ventura Unified                                                            ","UNIFIED        ",1.5664320000000000e+04
+"56","73759","Conejo Valley Unified                                                      ","UNIFIED        ",1.7728650000000001e+04
+"56","73874","Oak Park Unified                                                           ","UNIFIED        ",4.4245699999999997e+03
+"56","73940","Moorpark Unified                                                           ","UNIFIED        ",5.8967900000000000e+03
+"56","76828","Santa Paula Unified                                                        ","UNIFIED        ",5.0200699999999997e+03
+"57","10579","Yolo County Office of Education                                            ","CO OFFICE      ",0.0000000000000000e+00
+"57","72678","Davis Joint Unified                                                        ","UNIFIED        ",7.6745699999999997e+03
+"57","72686","Esparto Unified                                                            ","UNIFIED        ",8.8689999999999998e+02
+"57","72694","Washington Unified                                                         ","UNIFIED        ",7.2498400000000001e+03
+"57","72702","Winters Joint Unified                                                      ","UNIFIED        ",1.4719300000000001e+03
+"57","72710","Woodland Joint Unified                                                     ","UNIFIED        ",9.2218099999999995e+03
+"58","10587","Yuba County Office of Education                                            ","CO OFFICE      ",0.0000000000000000e+00
+"58","72728","Camptonville Elementary                                                    ","ELEMENTARY     ",4.4680000000000000e+01
+"58","72736","Marysville Joint Unified                                                   ","UNIFIED        ",9.0721800000000003e+03
+"58","72744","Plumas Lake Elementary                                                     ","ELEMENTARY     ",1.2830400000000000e+03
+"58","72751","Wheatland Elementary                                                       ","ELEMENTARY     ",1.2369200000000001e+03
+"58","72769","Wheatland Union High                                                       ","HIGH           ",7.4875000000000000e+02
